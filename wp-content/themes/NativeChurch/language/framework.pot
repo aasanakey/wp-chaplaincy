@@ -1,0 +1,6515 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Native Church\n"
+"POT-Creation-Date: 2020-12-05 02:37+0530\n"
+"PO-Revision-Date: 2020-12-05 02:37+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14 header.php:319
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: bbpress/content-search.php:14
+msgid "Need a new search?"
+msgstr ""
+
+#: bbpress/content-search.php:15
+msgid "If you didn't find what you were looking for, try a new search!"
+msgstr ""
+
+#: bbpress/content-search.php:18 bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/content-search.php:21 bbpress/form-search.php:17
+msgid "Search the Forum..."
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94 bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: bbpress/content-single-topic.php:32 bbpress/form-reply.php:55
+#: bbpress/form-topic.php:22 bbpress/form-topic.php:81
+msgid "Tags:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:22
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: bbpress/form-reply-move.php:27
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: bbpress/form-reply-move.php:31
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: bbpress/form-reply-move.php:35
+msgid "Move Method"
+msgstr ""
+
+#: bbpress/form-reply-move.php:39 bbpress/form-topic-split.php:39
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:40
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: bbpress/form-reply-move.php:47 bbpress/form-topic-split.php:47
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:56 bbpress/form-topic-split.php:56
+msgid "No other topics found!"
+msgstr ""
+
+#: bbpress/form-reply-move.php:67 bbpress/form-topic-merge.php:88
+#: bbpress/form-topic-split.php:92
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: bbpress/form-reply-move.php:71 bbpress/form-reply.php:91
+#: bbpress/form-topic-merge.php:92 bbpress/form-topic-split.php:96
+#: bbpress/form-topic.php:161
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-reply-move.php:84
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: bbpress/form-reply-move.php:84
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: bbpress/form-reply.php:27
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: bbpress/form-reply.php:44 bbpress/form-topic.php:70
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: bbpress/form-reply.php:70 bbpress/form-topic.php:142
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-reply.php:74 bbpress/form-topic.php:146
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: bbpress/form-reply.php:109 bbpress/form-topic.php:178
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:113 bbpress/form-topic.php:182
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:142
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: bbpress/form-reply.php:150 bbpress/form-topic.php:208
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/form-reply.php:158
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:158
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:22
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-merge.php:27
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:28
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:32
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:36
+msgid "Destination"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:40
+msgid "Merge with this topic:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:49
+msgid "No topics were found to which the topic could be merged to!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:55
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:63 bbpress/form-topic-split.php:67
+msgid "Topic Extras"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:70
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:75
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:80
+msgid "Merge topic tags"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:105 bbpress/form-topic-split.php:109
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:105 bbpress/form-topic-split.php:109
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:22
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-split.php:27
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:31
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: bbpress/form-topic-split.php:35
+msgid "Split Method"
+msgstr ""
+
+#: bbpress/form-topic-split.php:40
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: bbpress/form-topic-split.php:74
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:79
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:84
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:45
+#: framework/tgm/class-tgm-plugin-activation.php:2821
+msgid "Update"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:59 bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:88 bbpress/form-topic-tag.php:101
+msgid "Delete"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: bbpress/form-topic.php:39
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:41
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:41
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:55
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:94
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/form-topic.php:97
+msgid "(No Forum)"
+msgstr ""
+
+#: bbpress/form-topic.php:113
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:125
+msgid "Topic Status:"
+msgstr ""
+
+#: bbpress/form-topic.php:216
+msgid "You cannot create new topics."
+msgstr ""
+
+#: bbpress/form-topic.php:216
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-replies.php:28
+#: bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:22 bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/loop-search-forum.php:30
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: bbpress/loop-search-reply.php:22 bbpress/loop-search-topic.php:22
+#: bbpress/loop-single-reply.php:22
+#, php-format
+msgid "Post count: %s"
+msgstr ""
+
+#: bbpress/loop-search-reply.php:42
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:48
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:53
+msgid "in group forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:57
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-single-reply.php:48
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: bbpress/user-details.php:40
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:40 bbpress/user-profile.php:15
+msgid "Profile"
+msgstr ""
+
+#: bbpress/user-details.php:46
+#, php-format
+msgid "%s's Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:46
+msgid "Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:52
+#, php-format
+msgid "%s's Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:52
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:63
+#, php-format
+msgid "%s's Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:63
+msgid "Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:73
+#, php-format
+msgid "%s's Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:73
+msgid "Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:80
+#, php-format
+msgid "Edit %s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:80
+msgid "Edit"
+msgstr ""
+
+#: bbpress/user-profile.php:24
+msgid "Forum Role:"
+msgstr ""
+
+#: bbpress/user-profile.php:25
+msgid "Topics Started:"
+msgstr ""
+
+#: bbpress/user-profile.php:26
+msgid "Replies Created:"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:15
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:15
+msgid "Comment(1)"
+msgstr ""
+
+#: comments.php:15
+msgid "Comments(%)"
+msgstr ""
+
+#: comments.php:70
+#, php-format
+msgid "<h5>%s says:</h5>"
+msgstr ""
+
+#: comments.php:73 functions.php:185
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:80
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:134
+msgid "Your name"
+msgstr ""
+
+#: comments.php:137
+msgid "Your email"
+msgstr ""
+
+#: comments.php:140
+msgid "Website (optional)"
+msgstr ""
+
+#: comments.php:153
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:168
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:170
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:171
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:172
+msgid "Submit your comment"
+msgstr ""
+
+#: footer.php:25 footer.php:32
+msgid "&copy; "
+msgstr ""
+
+#: footer.php:28 footer.php:35
+msgid ". "
+msgstr ""
+
+#: footer.php:169
+msgid "Your ticket for the "
+msgstr ""
+
+#: footer.php:197 framework/barebones-config.php:2620
+msgid "Event"
+msgstr ""
+
+#: footer.php:206
+msgid "Free"
+msgstr ""
+
+#: footer.php:220
+msgid "Starts "
+msgstr ""
+
+#: framework/barebones-config.php:34 framework/barebones-config.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: framework/barebones-config.php:158
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: framework/barebones-config.php:184
+msgid "General"
+msgstr ""
+
+#: framework/barebones-config.php:189
+msgid "Enable Maintenance"
+msgstr ""
+
+#: framework/barebones-config.php:190
+msgid "Enable the themes in maintenance mode."
+msgstr ""
+
+#: framework/barebones-config.php:192
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:60
+msgid "Enabled"
+msgstr ""
+
+#: framework/barebones-config.php:193
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:61
+msgid "Disabled"
+msgstr ""
+
+#: framework/barebones-config.php:198
+msgid "Enable WP Thumbnail"
+msgstr ""
+
+#: framework/barebones-config.php:199
+msgid ""
+"Enable/Disable the wordpress image thumbnail sizes for the website. If its "
+"disable then full size images will be used."
+msgstr ""
+
+#: framework/barebones-config.php:205
+msgid "Enable Back To Top"
+msgstr ""
+
+#: framework/barebones-config.php:206
+msgid ""
+"Enable the back to top button that appears at the bottom right corner of the "
+"screen."
+msgstr ""
+
+#: framework/barebones-config.php:212
+msgid "Tracking Code"
+msgstr ""
+
+#: framework/barebones-config.php:213
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header template of your theme. Please put code without "
+"opening and closing script tags."
+msgstr ""
+
+#: framework/barebones-config.php:218
+msgid "Space before closing head tag"
+msgstr ""
+
+#: framework/barebones-config.php:219
+msgid "Add your code before closing head tag"
+msgstr ""
+
+#: framework/barebones-config.php:225
+msgid "Space before closing body tag"
+msgstr ""
+
+#: framework/barebones-config.php:226
+msgid "Add your code before closing body tag"
+msgstr ""
+
+#: framework/barebones-config.php:234
+msgid "Responsive"
+msgstr ""
+
+#: framework/barebones-config.php:239
+msgid "Enable Responsive"
+msgstr ""
+
+#: framework/barebones-config.php:240
+msgid "Enable/Disable the responsive behaviour of the theme"
+msgstr ""
+
+#: framework/barebones-config.php:246
+msgid "Enable Zoom on mobile devices"
+msgstr ""
+
+#: framework/barebones-config.php:247
+msgid "Enable/Disable zoom pinch behaviour on touch devices"
+msgstr ""
+
+#: framework/barebones-config.php:255
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:72
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:31
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:72
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:82
+msgid "Layout"
+msgstr ""
+
+#: framework/barebones-config.php:261
+msgid "Page Layout"
+msgstr ""
+
+#: framework/barebones-config.php:262
+msgid "Select the page layout type"
+msgstr ""
+
+#: framework/barebones-config.php:273
+msgid "Repeatable Background Images"
+msgstr ""
+
+#: framework/barebones-config.php:274
+msgid "Select image to set in background."
+msgstr ""
+
+#: framework/barebones-config.php:314
+msgid "Upload Repeatable Background Image"
+msgstr ""
+
+#: framework/barebones-config.php:322
+msgid "Upload Full Screen Background Image"
+msgstr ""
+
+#: framework/barebones-config.php:328
+msgid "Site Width"
+msgstr ""
+
+#: framework/barebones-config.php:329
+msgid ""
+"Controls the overall site width. Without px, ex: 1040(Default). Recommended "
+"maximum width is 1170 to maintain the theme structure."
+msgstr ""
+
+#: framework/barebones-config.php:338
+msgid "Content"
+msgstr ""
+
+#: framework/barebones-config.php:349
+msgid "Top and Bottom padding for page content"
+msgstr ""
+
+#: framework/barebones-config.php:350
+msgid "Enter top and bottom padding for page content. Default is 50px/50px"
+msgstr ""
+
+#: framework/barebones-config.php:360
+msgid "Minimum Height for Content"
+msgstr ""
+
+#: framework/barebones-config.php:361
+msgid ""
+"Enter minimum height for the page content part(Without px). Default is 400"
+msgstr ""
+
+#: framework/barebones-config.php:368
+msgid "100% Content Width"
+msgstr ""
+
+#: framework/barebones-config.php:369
+#, php-format
+msgid ""
+"Check this box to set the content area to 100% of the browser width. Uncheck "
+"to follow site width. Only works with wide layout mode."
+msgstr ""
+
+#: framework/barebones-config.php:377
+msgid "Content area Background"
+msgstr ""
+
+#: framework/barebones-config.php:378
+msgid ""
+"Background color or image for the content area. This works for both boxed or "
+"wide layouts."
+msgstr ""
+
+#: framework/barebones-config.php:384
+msgid "Header"
+msgstr ""
+
+#: framework/barebones-config.php:385 framework/barebones-config.php:465
+msgid "These are the options for the header."
+msgstr ""
+
+#: framework/barebones-config.php:391
+msgid "Header Layout"
+msgstr ""
+
+#: framework/barebones-config.php:392
+msgid "Select the header layout"
+msgstr ""
+
+#: framework/barebones-config.php:405
+msgid "Header Style 3 right area"
+msgstr ""
+
+#: framework/barebones-config.php:406
+msgid ""
+"Enter html or text to show at the right side of the logo in place of default "
+"search form in header style 3"
+msgstr ""
+
+#: framework/barebones-config.php:413
+msgid "100% Header Width"
+msgstr ""
+
+#: framework/barebones-config.php:414
+#, php-format
+msgid ""
+"Check this box to set the header to 100% of the browser width. Uncheck to "
+"follow site width. Only works with wide layout mode."
+msgstr ""
+
+#: framework/barebones-config.php:420
+msgid "Header Area Height"
+msgstr ""
+
+#: framework/barebones-config.php:421
+msgid "Enter height for header Area"
+msgstr ""
+
+#: framework/barebones-config.php:428
+msgid "Header(Logo Area) Translucent Background"
+msgstr ""
+
+#: framework/barebones-config.php:429 framework/barebones-config.php:480
+msgid "Default: rgba(255, 255, 255, 0.8)"
+msgstr ""
+
+#: framework/barebones-config.php:457
+msgid "Header(Logo Area) Background Image"
+msgstr ""
+
+#: framework/barebones-config.php:458
+msgid "This will override the translucent color style."
+msgstr ""
+
+#: framework/barebones-config.php:464
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/barebones-config.php:471
+msgid "Enable Header Stick"
+msgstr ""
+
+#: framework/barebones-config.php:472
+msgid "Enable/Disable Header Stick behaviour of the theme"
+msgstr ""
+
+#: framework/barebones-config.php:479
+msgid "Sticky Header Background"
+msgstr ""
+
+#: framework/barebones-config.php:481
+msgid ""
+"On Header style 4 header logo area top area will be sticky so its bg color "
+"will be used here as well."
+msgstr ""
+
+#: framework/barebones-config.php:509
+msgid "Sticky Header Background Image"
+msgstr ""
+
+#: framework/barebones-config.php:510
+msgid "Background color or image for the header."
+msgstr ""
+
+#: framework/barebones-config.php:516 framework/barebones-config.php:524
+msgid "Sticky Header Link Color"
+msgstr ""
+
+#: framework/barebones-config.php:517 framework/barebones-config.php:525
+msgid "Set the sticky header/menu links color, hover, active."
+msgstr ""
+
+#: framework/barebones-config.php:532
+msgid "Topbar"
+msgstr ""
+
+#: framework/barebones-config.php:540 framework/barebones-config.php:2169
+#: framework/meta-boxes.php:35 functions.php:243
+msgid "Facebook"
+msgstr ""
+
+#: framework/barebones-config.php:541
+msgid "Facebook URL to link your social bar's facebook icon."
+msgstr ""
+
+#: framework/barebones-config.php:542
+msgid "Enter your facebook URL for your theme footer."
+msgstr ""
+
+#: framework/barebones-config.php:549 framework/meta-boxes.php:43
+#: functions.php:244
+msgid "Twitter"
+msgstr ""
+
+#: framework/barebones-config.php:550
+msgid "Twitter URL to link your social bar's twitter icon."
+msgstr ""
+
+#: framework/barebones-config.php:551
+msgid "Enter your twitter URL for your theme footer."
+msgstr ""
+
+#: framework/barebones-config.php:558 framework/meta-boxes.php:58
+#: functions.php:246
+msgid "Pinterest"
+msgstr ""
+
+#: framework/barebones-config.php:559
+msgid "Pinterest URL to link your social bar's Pinterest icon."
+msgstr ""
+
+#: framework/barebones-config.php:560
+msgid "Enter your Pinterest URL for your theme footer."
+msgstr ""
+
+#: framework/barebones-config.php:567 framework/meta-boxes.php:51
+msgid "Google+"
+msgstr ""
+
+#: framework/barebones-config.php:568
+msgid "Google+ URL to link your social bar's googleplus icon."
+msgstr ""
+
+#: framework/barebones-config.php:569
+msgid "Enter your googleplus URL for your theme footer."
+msgstr ""
+
+#: framework/barebones-config.php:576
+msgid "Youtube"
+msgstr ""
+
+#: framework/barebones-config.php:577
+msgid "Youtube URL to link your social bar's youtube icon."
+msgstr ""
+
+#: framework/barebones-config.php:578
+msgid "Enter your Youtube URL for your theme footer."
+msgstr ""
+
+#: framework/barebones-config.php:586
+msgid "Instagram"
+msgstr ""
+
+#: framework/barebones-config.php:587
+msgid "Instagram URL to link your social bar's Instagram icon."
+msgstr ""
+
+#: framework/barebones-config.php:588
+msgid "Enter your Instagram URL for your theme footer."
+msgstr ""
+
+#: framework/barebones-config.php:596
+msgid "Vimeo"
+msgstr ""
+
+#: framework/barebones-config.php:597
+msgid "Vimeo URL to link your social bar's Vimeo icon."
+msgstr ""
+
+#: framework/barebones-config.php:598
+msgid "Enter your Vimeo URL for your theme footer."
+msgstr ""
+
+#: framework/barebones-config.php:605
+msgid "Rss"
+msgstr ""
+
+#: framework/barebones-config.php:606
+msgid "Rss URL to link your  Rss icon."
+msgstr ""
+
+#: framework/barebones-config.php:607
+msgid "Enter your Rss URL for you theme footer."
+msgstr ""
+
+#: framework/barebones-config.php:615 framework/barebones-config.php:1440
+msgid "Social Links"
+msgstr ""
+
+#: framework/barebones-config.php:616
+msgid ""
+"Enter the social links and sort to active and display according to sequence "
+"in header."
+msgstr ""
+
+#: framework/barebones-config.php:645
+msgid "Inner Page Header"
+msgstr ""
+
+#: framework/barebones-config.php:652
+msgid "Sub Pages Header Image"
+msgstr ""
+
+#: framework/barebones-config.php:653
+msgid "Default header image for post types."
+msgstr ""
+
+#: framework/barebones-config.php:654
+msgid ""
+"Set this image as default header image for all Page/Post/Event/Sermons/"
+"Gallery."
+msgstr ""
+
+#: framework/barebones-config.php:661
+msgid "Default header image for post"
+msgstr ""
+
+#: framework/barebones-config.php:662
+msgid "Set this image as default header image for all posts."
+msgstr ""
+
+#: framework/barebones-config.php:669
+msgid "Default header image for page"
+msgstr ""
+
+#: framework/barebones-config.php:670
+msgid "Set this image as default header image for all pages."
+msgstr ""
+
+#: framework/barebones-config.php:677
+msgid "Default header image for event"
+msgstr ""
+
+#: framework/barebones-config.php:678
+msgid "Set this image as default header image for all event posts."
+msgstr ""
+
+#: framework/barebones-config.php:685
+msgid "Default header image for sermon"
+msgstr ""
+
+#: framework/barebones-config.php:686
+msgid "Set this image as default header image for all sermon posts."
+msgstr ""
+
+#: framework/barebones-config.php:693
+msgid "Default header image for gallery"
+msgstr ""
+
+#: framework/barebones-config.php:694
+msgid "Set this image as default header image for all Gallery."
+msgstr ""
+
+#: framework/barebones-config.php:701
+msgid "Default header image for cause posts"
+msgstr ""
+
+#: framework/barebones-config.php:702
+msgid "Set this image as default header image for all cause posts."
+msgstr ""
+
+#: framework/barebones-config.php:709
+msgid "Mobile Header"
+msgstr ""
+
+#: framework/barebones-config.php:715
+msgid "Show slider behind header"
+msgstr ""
+
+#: framework/barebones-config.php:716
+msgid ""
+"Uncheck if you want the slider on homepage to show below the header and not "
+"behind in header style 1 and 3."
+msgstr ""
+
+#: framework/barebones-config.php:723
+msgid "Logo"
+msgstr ""
+
+#: framework/barebones-config.php:729
+msgid "Upload Logo"
+msgstr ""
+
+#: framework/barebones-config.php:730
+msgid ""
+"Logo used by most of the devices including desktops and not retina devices"
+msgstr ""
+
+#: framework/barebones-config.php:731 framework/barebones-config.php:747
+msgid "Upload site logo to display in header."
+msgstr ""
+
+#: framework/barebones-config.php:737
+msgid "Logo Image Alt Text"
+msgstr ""
+
+#: framework/barebones-config.php:738
+msgid ""
+"Enter logo image alternative text. This will appear in browser tooltip on "
+"logo image hover."
+msgstr ""
+
+#: framework/barebones-config.php:745
+msgid "Upload Logo for Retina Devices"
+msgstr ""
+
+#: framework/barebones-config.php:746
+msgid ""
+"Retina Display is a marketing term developed by Apple to refer to devices "
+"and monitors that have a resolution and pixel density so high – roughly 300 "
+"or more pixels per inch"
+msgstr ""
+
+#: framework/barebones-config.php:752
+msgid "Standard Logo Width for Retina Logo"
+msgstr ""
+
+#: framework/barebones-config.php:753
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version width, do "
+"not enter the retina logo width."
+msgstr ""
+
+#: framework/barebones-config.php:758
+msgid "Standard Logo Height for Retina Logo"
+msgstr ""
+
+#: framework/barebones-config.php:759
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version height, do "
+"not enter the retina logo height."
+msgstr ""
+
+#: framework/barebones-config.php:765
+msgid "Admin Logo"
+msgstr ""
+
+#: framework/barebones-config.php:772
+msgid "Custom admin login logo"
+msgstr ""
+
+#: framework/barebones-config.php:774
+msgid "Upload a 254 x 95px image here to replace the admin login logo."
+msgstr ""
+
+#: framework/barebones-config.php:781
+msgid "Favicon Options"
+msgstr ""
+
+#: framework/barebones-config.php:788
+msgid "Custom favicon"
+msgstr ""
+
+#: framework/barebones-config.php:789
+msgid "Upload a .ico favicon image that will represent your website favicon"
+msgstr ""
+
+#: framework/barebones-config.php:796
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: framework/barebones-config.php:797
+msgid "Upload Favicon for Apple iPhone (57px x 57px)"
+msgstr ""
+
+#: framework/barebones-config.php:804
+msgid "Apple iPhone Retina Icon"
+msgstr ""
+
+#: framework/barebones-config.php:805
+msgid "Upload Favicon for Apple iPhone Retina Version (114px x 114px)"
+msgstr ""
+
+#: framework/barebones-config.php:812
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: framework/barebones-config.php:813
+msgid "Upload Favicon for Apple iPad (72px x 72px)"
+msgstr ""
+
+#: framework/barebones-config.php:820
+msgid "Apple iPad Retina Icon Upload"
+msgstr ""
+
+#: framework/barebones-config.php:821
+msgid "Upload Favicon for Apple iPad Retina Version (144px x 144px)"
+msgstr ""
+
+#: framework/barebones-config.php:828
+msgid "Menu"
+msgstr ""
+
+#: framework/barebones-config.php:834
+msgid "Navigation Bar Background"
+msgstr ""
+
+#: framework/barebones-config.php:835
+msgid "Default: #f8f7f3)"
+msgstr ""
+
+#: framework/barebones-config.php:861
+msgid "Main Navigation Typography"
+msgstr ""
+
+#: framework/barebones-config.php:862
+msgid ""
+"Defaults: Font Family - Roboto Condensed, Font weight - Normal, Font Size - "
+"16px, Letter Spacing - 0, Text Transform - Uppercase"
+msgstr ""
+
+#: framework/barebones-config.php:882
+msgid "Main Navigation Link Color"
+msgstr ""
+
+#: framework/barebones-config.php:883 framework/barebones-config.php:1107
+msgid ""
+"Default Regular: #5E5E5E / Hover: Your primary color / Active: Your primary "
+"color"
+msgstr ""
+
+#: framework/barebones-config.php:884 framework/barebones-config.php:1036
+msgid "Set the top navigation parent links color, hover, active."
+msgstr ""
+
+#: framework/barebones-config.php:891
+msgid "Main Menu Dropdown Background"
+msgstr ""
+
+#: framework/barebones-config.php:892 framework/barebones-config.php:1044
+msgid "Default: #ffffff"
+msgstr ""
+
+#: framework/barebones-config.php:918
+msgid "Main Menu Dropdown Links Border Bottom"
+msgstr ""
+
+#: framework/barebones-config.php:919 framework/barebones-config.php:1071
+msgid "Default: 1px solid #f8f7f3"
+msgstr ""
+
+#: framework/barebones-config.php:933
+msgid "Main Navigation Dropdown Typography"
+msgstr ""
+
+#: framework/barebones-config.php:934
+msgid ""
+"Defaults: Font Family - Roboto Condensed, Font weight - Normal, Font Size - "
+"14px, Line Height - 20px, Letter Spacing - 0, Text transform - Uppercase"
+msgstr ""
+
+#: framework/barebones-config.php:954
+msgid "Main Menu Dropdown Link Color"
+msgstr ""
+
+#: framework/barebones-config.php:955 framework/barebones-config.php:1035
+#: framework/barebones-config.php:1411
+msgid ""
+"Defaults: Regular - #5E5E5E, Hover - Your primary color, Active - Your "
+"primary color"
+msgstr ""
+
+#: framework/barebones-config.php:956 framework/barebones-config.php:1108
+msgid "Set the dropdown menu links color, hover, active."
+msgstr ""
+
+#: framework/barebones-config.php:963
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/barebones-config.php:969
+msgid "Mobile Menu Icon"
+msgstr ""
+
+#: framework/barebones-config.php:992
+msgid "Show text with mobile menu icon"
+msgstr ""
+
+#: framework/barebones-config.php:993
+msgid ""
+"Enter text you want to show next to mobile menu icon. Keep it short and "
+"sweet. Eg: Menu"
+msgstr ""
+
+#: framework/barebones-config.php:1000 functions.php:47
+msgid "Top Menu"
+msgstr ""
+
+#: framework/barebones-config.php:1006
+msgid "Enable Top Menu for Mobile"
+msgstr ""
+
+#: framework/barebones-config.php:1007
+msgid ""
+"Enable/Disable top navigation for small screen devices. If enabled, your top "
+"navigation will show as select menu on mobile devices."
+msgstr ""
+
+#: framework/barebones-config.php:1013
+msgid "Top Navigation Typography"
+msgstr ""
+
+#: framework/barebones-config.php:1014
+msgid ""
+"xDefaults: Font Family - Roboto Condensed, Font weight - Bold, Font Size - "
+"12px, Line Height - 20px, Letter Spacing - 2px, Text transform - Uppercase"
+msgstr ""
+
+#: framework/barebones-config.php:1034
+msgid "Top Navigation Link Color"
+msgstr ""
+
+#: framework/barebones-config.php:1043
+msgid "Top Menu Dropdown Background"
+msgstr ""
+
+#: framework/barebones-config.php:1070
+msgid "Top Menu Dropdown Links Border Bottom"
+msgstr ""
+
+#: framework/barebones-config.php:1085
+msgid "Top Navigation Dropdown Typography"
+msgstr ""
+
+#: framework/barebones-config.php:1086
+msgid ""
+"Defaults:Font Family - Roboto Condensed, Font weight - Normal, Font Size - "
+"12px, Line Height - 20px, Letter Spacing - 2px, Text transform - Uppercase"
+msgstr ""
+
+#: framework/barebones-config.php:1106
+msgid "Top Menu Dropdown Link Color"
+msgstr ""
+
+#: framework/barebones-config.php:1293
+msgid "Footer"
+msgstr ""
+
+#: framework/barebones-config.php:1294
+msgid "These are the options for the footer."
+msgstr ""
+
+#: framework/barebones-config.php:1300
+msgid "100% Footer Width"
+msgstr ""
+
+#: framework/barebones-config.php:1301
+#, php-format
+msgid ""
+"Check this box to set the footer to 100% of the browser width. Uncheck to "
+"follow site width. Only works with wide layout mode."
+msgstr ""
+
+#: framework/barebones-config.php:1308
+msgid "Footer Layout"
+msgstr ""
+
+#: framework/barebones-config.php:1309
+msgid "Select the footer layout"
+msgstr ""
+
+#: framework/barebones-config.php:1323
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: framework/barebones-config.php:1329
+msgid "Footer(Widgets Area) Background"
+msgstr ""
+
+#: framework/barebones-config.php:1330
+msgid "Default: #F8F7F3"
+msgstr ""
+
+#: framework/barebones-config.php:1343
+msgid "Footer Widget Area Padding"
+msgstr ""
+
+#: framework/barebones-config.php:1344
+msgid ""
+"Enter Top and Bottom padding values for the footer widget area. Do not "
+"include px in the fields"
+msgstr ""
+
+#: framework/barebones-config.php:1354
+msgid "Footer(Widgets Area) Typography"
+msgstr ""
+
+#: framework/barebones-config.php:1373
+msgid "Footer Widgets Title Typography"
+msgstr ""
+
+#: framework/barebones-config.php:1395
+msgid "Border Bottom for Footer Widget Lists"
+msgstr ""
+
+#: framework/barebones-config.php:1396
+msgid "Default: 1px solid #ECEAE4"
+msgstr ""
+
+#: framework/barebones-config.php:1410
+msgid "Footer(Widgets Area) Link Color"
+msgstr ""
+
+#: framework/barebones-config.php:1412
+msgid "Set the top footer links color, hover, active."
+msgstr ""
+
+#: framework/barebones-config.php:1419
+msgid "Footer Copyrights Area"
+msgstr ""
+
+#: framework/barebones-config.php:1424
+msgid "Default copyright text"
+msgstr ""
+
+#: framework/barebones-config.php:1425
+msgid ""
+"Show/Hide default copyright information text from footer i.e. © 2019 "
+"WebsiteName"
+msgstr ""
+
+#: framework/barebones-config.php:1431
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: framework/barebones-config.php:1432
+msgid " Enter Copyright Text"
+msgstr ""
+
+#: framework/barebones-config.php:1433
+msgid "All Rights Reserved"
+msgstr ""
+
+#: framework/barebones-config.php:1441
+msgid ""
+"Insert Social URL in their respective fields and sort as your desired order."
+msgstr ""
+
+#: framework/barebones-config.php:1470
+msgid "Footer(Copyrights Area) Background"
+msgstr ""
+
+#: framework/barebones-config.php:1471
+msgid "Default: #ECEAE4"
+msgstr ""
+
+#: framework/barebones-config.php:1484
+msgid "Footer Copyrights Area Padding"
+msgstr ""
+
+#: framework/barebones-config.php:1485
+msgid ""
+"Enter Top and Bottom padding values for the footer copyrights area. Do not "
+"include px in the fields"
+msgstr ""
+
+#: framework/barebones-config.php:1495
+msgid "Footer(Copyrights Area) Typography"
+msgstr ""
+
+#: framework/barebones-config.php:1510 framework/barebones-config.php:1614
+msgid "Line height should be same as the height you just defined above."
+msgstr ""
+
+#: framework/barebones-config.php:1515
+msgid "Footer(Copyrights Area) Links Color"
+msgstr ""
+
+#: framework/barebones-config.php:1516
+msgid ""
+"Defaults Regular - #5E5E5E, Hover - Your primary color,  Active - Your "
+"primary color"
+msgstr ""
+
+#: framework/barebones-config.php:1517
+msgid "Set the bottom footer links color, hover, active."
+msgstr ""
+
+#: framework/barebones-config.php:1524
+msgid "Footer Social Icons Background"
+msgstr ""
+
+#: framework/barebones-config.php:1525
+msgid "Default: #999999"
+msgstr ""
+
+#: framework/barebones-config.php:1552
+msgid "Footer Social Icons Hover Background"
+msgstr ""
+
+#: framework/barebones-config.php:1553
+msgid "Default: #666666"
+msgstr ""
+
+#: framework/barebones-config.php:1579
+msgid "Footer Social Icons Link Color"
+msgstr ""
+
+#: framework/barebones-config.php:1580
+msgid ""
+"Default Regular: #ffffff - Hover: Your primary color - Active: Your primary "
+"color"
+msgstr ""
+
+#: framework/barebones-config.php:1581
+msgid "Set the bottom footer social icons link color, hover, active."
+msgstr ""
+
+#: framework/barebones-config.php:1589
+msgid "Footer Social Icons Dimensions"
+msgstr ""
+
+#: framework/barebones-config.php:1590
+msgid "Enter width/height of the footer rounded icons. Default is 25/25"
+msgstr ""
+
+#: framework/barebones-config.php:1599
+msgid "Footer Social Links typography"
+msgstr ""
+
+#: framework/barebones-config.php:1624
+msgid "Sidebars"
+msgstr ""
+
+#: framework/barebones-config.php:1630
+msgid "Sidebar position"
+msgstr ""
+
+#: framework/barebones-config.php:1631
+msgid ""
+"Select the Global Sidebar Position. Can be overridden by page sidebar "
+"settings."
+msgstr ""
+
+#: framework/barebones-config.php:1641
+msgid "Post Sidebar Option"
+msgstr ""
+
+#: framework/barebones-config.php:1642
+msgid "Select sidebar to display by default on post pages."
+msgstr ""
+
+#: framework/barebones-config.php:1649
+msgid "Page Sidebar Option"
+msgstr ""
+
+#: framework/barebones-config.php:1650
+msgid "Select sidebar to display by default on pages."
+msgstr ""
+
+#: framework/barebones-config.php:1657
+msgid "Event Sidebar Option"
+msgstr ""
+
+#: framework/barebones-config.php:1658
+msgid "Select sidebar to display by default on events."
+msgstr ""
+
+#: framework/barebones-config.php:1665
+msgid "Cause Sidebar Option"
+msgstr ""
+
+#: framework/barebones-config.php:1666
+msgid "Select sidebar to display by default on causes."
+msgstr ""
+
+#: framework/barebones-config.php:1673
+msgid "Sermon Sidebar Option"
+msgstr ""
+
+#: framework/barebones-config.php:1674
+msgid "Select sidebar to display by default on sermon pages."
+msgstr ""
+
+#: framework/barebones-config.php:1681
+msgid "Staff Sidebar Option"
+msgstr ""
+
+#: framework/barebones-config.php:1682
+msgid "Select sidebar to display by default on staff pages."
+msgstr ""
+
+#: framework/barebones-config.php:1689
+msgid "bbpress Sidebar Option"
+msgstr ""
+
+#: framework/barebones-config.php:1690
+msgid "Select sidebar to display by default on all bbpress pages globally."
+msgstr ""
+
+#: framework/barebones-config.php:1698
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/barebones-config.php:1703
+msgid "Primary Color"
+msgstr ""
+
+#: framework/barebones-config.php:1704
+msgid "Set the primary color scheme for the website"
+msgstr ""
+
+#: framework/barebones-config.php:1711
+msgid "Site Color Scheme"
+msgstr ""
+
+#: framework/barebones-config.php:1712
+msgid "Select the color scheme of the website"
+msgstr ""
+
+#: framework/barebones-config.php:1714
+msgid "Pre-Defined Color Schemes"
+msgstr ""
+
+#: framework/barebones-config.php:1715 framework/barebones-config.php:1732
+msgid "Custom Color"
+msgstr ""
+
+#: framework/barebones-config.php:1723
+msgid "Predefined Schemes"
+msgstr ""
+
+#: framework/barebones-config.php:1724
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: framework/barebones-config.php:1733
+msgid "Pick a primary color for the template."
+msgstr ""
+
+#: framework/barebones-config.php:1740
+msgid "Typography"
+msgstr ""
+
+#: framework/barebones-config.php:1741
+msgid ""
+"Global Font Family Sets (Can be override with dedicated styling options)"
+msgstr ""
+
+#: framework/barebones-config.php:1742
+msgid ""
+"These options are as per the design which consists of 3 fonts. For more "
+"advanced typography options see Sub Sections below this in Left Sidebar. "
+"Make sure you set these options only if you have knowledge about every "
+"property to avoid disturbing the whole layout. If something went wrong just "
+"reset this section to reset all fields in Typography Options or click the "
+"small cross signs in each select field/delete text from input fields to "
+"reset them."
+msgstr ""
+
+#: framework/barebones-config.php:1747
+msgid "Primary font"
+msgstr ""
+
+#: framework/barebones-config.php:1761
+msgid "Please Enter Body Font."
+msgstr ""
+
+#: framework/barebones-config.php:1772
+msgid "Secondary font"
+msgstr ""
+
+#: framework/barebones-config.php:1786
+msgid "Please Enter Heading Font"
+msgstr ""
+
+#: framework/barebones-config.php:1797
+msgid "Metatext/date Cursive Font"
+msgstr ""
+
+#: framework/barebones-config.php:1811
+msgid "Please Enter Metatext date Font"
+msgstr ""
+
+#: framework/barebones-config.php:1823
+msgid "Body"
+msgstr ""
+
+#: framework/barebones-config.php:1824
+msgid "Style typography, color and other settings for body content"
+msgstr ""
+
+#: framework/barebones-config.php:1830
+msgid "Body text default typography"
+msgstr ""
+
+#: framework/barebones-config.php:1831
+msgid ""
+"Defaults: Font Family - Roboto, Font weight - Normal, Font Size - 14px, Line "
+"Height - 20px, Letter Spacing - 0px, Color - #666666, Text transform - none"
+msgstr ""
+
+#: framework/barebones-config.php:1832 framework/barebones-config.php:1854
+#: framework/barebones-config.php:1876 framework/barebones-config.php:1898
+#: framework/barebones-config.php:1920 framework/barebones-config.php:1942
+#: framework/barebones-config.php:1964
+msgid ""
+"This applies to only the parts of your website where the content from page "
+"editor comes in"
+msgstr ""
+
+#: framework/barebones-config.php:1852
+msgid "H1 heading typography"
+msgstr ""
+
+#: framework/barebones-config.php:1853
+msgid ""
+"Defaults: Font Family - Roboto, Font weight - Normal, Font Size - 36px, "
+">Line Height - 42px, Letter Spacing - 0px, Color - #333333, Text transform - "
+"none"
+msgstr ""
+
+#: framework/barebones-config.php:1874
+msgid "H2 heading typography"
+msgstr ""
+
+#: framework/barebones-config.php:1875
+msgid ""
+"Defaults: Font Family - Roboto, Font weight - Normal, Font Size - 30px, Line "
+"Height - 36px, Letter Spacing - 0px, Color - #333333, Text transform - none"
+msgstr ""
+
+#: framework/barebones-config.php:1896
+msgid "H3 heading typography"
+msgstr ""
+
+#: framework/barebones-config.php:1897
+msgid ""
+"Defaults: Font Family - Roboto, Font weight - Normal, Font Size - 24px, Line "
+"Height - 30px, Letter Spacing - 0px, Color - #333333, Text transform - none"
+msgstr ""
+
+#: framework/barebones-config.php:1918
+msgid "H4 heading typography"
+msgstr ""
+
+#: framework/barebones-config.php:1919
+msgid ""
+"Defaults: Font Family - Roboto Condensed, Font weight - Bold, Font Size - "
+"16px, Line Height - 22px, Letter Spacing - 2px, Color - #333333, Text "
+"transform - Uppercase"
+msgstr ""
+
+#: framework/barebones-config.php:1940
+msgid "H5 heading typography"
+msgstr ""
+
+#: framework/barebones-config.php:1941
+msgid ""
+"Defaults: Font Family - Roboto, Font weight - Bold, Font Size - 16px, Line "
+"Height - 22px, Letter Spacing - 0px, Color - #333333, Text transform - none"
+msgstr ""
+
+#: framework/barebones-config.php:1962
+msgid "H6 heading typography"
+msgstr ""
+
+#: framework/barebones-config.php:1963
+msgid ""
+"Defaults: Font Family - Roboto, Font weight - Normal, Font Size - 12px, Line "
+"Height - 18px, Letter Spacing - 0px, Color - #333333, Text transform - none"
+msgstr ""
+
+#: framework/barebones-config.php:1985
+msgid "Share Options"
+msgstr ""
+
+#: framework/barebones-config.php:1990
+msgid "Social Sharing"
+msgstr ""
+
+#: framework/barebones-config.php:1992
+msgid ""
+"Enable/Disable theme default social sharing buttons for posts/events/sermons/"
+"causes single pages."
+msgstr ""
+
+#: framework/barebones-config.php:2001
+msgid "Share Buttons Style"
+msgstr ""
+
+#: framework/barebones-config.php:2002
+msgid "Choose the style of share button icons"
+msgstr ""
+
+#: framework/barebones-config.php:2004
+msgid "Rounded"
+msgstr ""
+
+#: framework/barebones-config.php:2005
+msgid "Squared"
+msgstr ""
+
+#: framework/barebones-config.php:2013
+msgid "Share Buttons Color"
+msgstr ""
+
+#: framework/barebones-config.php:2014
+msgid "Choose the color scheme of the share button icons"
+msgstr ""
+
+#: framework/barebones-config.php:2016
+msgid "Brand Colors"
+msgstr ""
+
+#: framework/barebones-config.php:2017
+msgid "Theme Color"
+msgstr ""
+
+#: framework/barebones-config.php:2018
+msgid "GrayScale"
+msgstr ""
+
+#: framework/barebones-config.php:2026
+msgid "Social share options"
+msgstr ""
+
+#: framework/barebones-config.php:2027
+msgid "Click on the buttons to disable/enable share buttons"
+msgstr ""
+
+#: framework/barebones-config.php:2055
+msgid "Select share buttons for post types"
+msgstr ""
+
+#: framework/barebones-config.php:2056
+msgid "Uncheck to disable for any type"
+msgstr ""
+
+#: framework/barebones-config.php:2077
+msgid "Tooltip text for Facebook share icon"
+msgstr ""
+
+#: framework/barebones-config.php:2078
+msgid "Text for the Facebook share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:2084
+msgid "Tooltip text for Twitter share icon"
+msgstr ""
+
+#: framework/barebones-config.php:2085
+msgid "Text for the Twitter share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:2091
+msgid "Tooltip text for Google Plus share icon"
+msgstr ""
+
+#: framework/barebones-config.php:2092
+msgid "Text for the Google Plus share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:2098
+msgid "Tooltip text for Tumblr share icon"
+msgstr ""
+
+#: framework/barebones-config.php:2099
+msgid "Text for the Tumblr share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:2105
+msgid "Tooltip text for Pinterest share icon"
+msgstr ""
+
+#: framework/barebones-config.php:2106
+msgid "Text for the Pinterest share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:2112
+msgid "Tooltip text for Reddit share icon"
+msgstr ""
+
+#: framework/barebones-config.php:2113
+msgid "Text for the Reddit share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:2119
+msgid "Tooltip text for Linkedin share icon"
+msgstr ""
+
+#: framework/barebones-config.php:2120
+msgid "Text for the Linkedin share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:2126
+msgid "Tooltip text for Email share icon"
+msgstr ""
+
+#: framework/barebones-config.php:2127
+msgid "Text for the Email share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:2133
+msgid "Tooltip text for vk share icon"
+msgstr ""
+
+#: framework/barebones-config.php:2134
+msgid "Text for the vk share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:2141
+msgid "Lightbox Options"
+msgstr ""
+
+#: framework/barebones-config.php:2146
+msgid "Lightbox Plugin"
+msgstr ""
+
+#: framework/barebones-config.php:2148
+msgid "Choose the plugin for the Lightbox Popup for theme."
+msgstr ""
+
+#: framework/barebones-config.php:2152
+msgid "PrettyPhoto"
+msgstr ""
+
+#: framework/barebones-config.php:2153
+msgid "Magnific Popup"
+msgstr ""
+
+#: framework/barebones-config.php:2161
+msgid "Theme Style"
+msgstr ""
+
+#: framework/barebones-config.php:2162
+msgid "Select style for the prettyPhoto Lightbox"
+msgstr ""
+
+#: framework/barebones-config.php:2164
+msgid "Default"
+msgstr ""
+
+#: framework/barebones-config.php:2165
+msgid "Light Rounded"
+msgstr ""
+
+#: framework/barebones-config.php:2166
+msgid "Dark Rounded"
+msgstr ""
+
+#: framework/barebones-config.php:2167
+msgid "Light Square"
+msgstr ""
+
+#: framework/barebones-config.php:2168
+msgid "Dark Square"
+msgstr ""
+
+#: framework/barebones-config.php:2177
+msgid "Overlay Opacity"
+msgstr ""
+
+#: framework/barebones-config.php:2178
+msgid "Enter values between 0.1 to 1. Default is 0.5"
+msgstr ""
+
+#: framework/barebones-config.php:2190
+msgid "Show Image Title"
+msgstr ""
+
+#: framework/barebones-config.php:2192 framework/barebones-config.php:2203
+#: framework/meta-boxes.php:389 framework/meta-boxes.php:446
+#: framework/meta-boxes.php:464 framework/meta-boxes.php:572
+#: framework/meta-boxes.php:601 framework/meta-boxes.php:911
+#: framework/meta-boxes.php:969 framework/meta-boxes.php:999
+#: framework/meta-boxes.php:1324
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:110
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:120
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:130
+msgid "Yes"
+msgstr ""
+
+#: framework/barebones-config.php:2193 framework/barebones-config.php:2204
+#: framework/meta-boxes.php:388 framework/meta-boxes.php:447
+#: framework/meta-boxes.php:465 framework/meta-boxes.php:573
+#: framework/meta-boxes.php:602 framework/meta-boxes.php:910
+#: framework/meta-boxes.php:970 framework/meta-boxes.php:1000
+#: framework/meta-boxes.php:1325
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:111
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:121
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:131
+msgid "No"
+msgstr ""
+
+#: framework/barebones-config.php:2201
+msgid "Allow Image Resize"
+msgstr ""
+
+#: framework/barebones-config.php:2212
+msgid "Podcast Options"
+msgstr ""
+
+#: framework/barebones-config.php:2217
+msgid "Podcast Title"
+msgstr ""
+
+#: framework/barebones-config.php:2223
+msgid "Podcast Description"
+msgstr ""
+
+#: framework/barebones-config.php:2229
+msgid "Website Link"
+msgstr ""
+
+#: framework/barebones-config.php:2235
+msgid "Language"
+msgstr ""
+
+#: framework/barebones-config.php:2241
+msgid "Copyright"
+msgstr ""
+
+#: framework/barebones-config.php:2242
+msgid "Copy \"&copy;\" to put a copyright symbol."
+msgstr ""
+
+#: framework/barebones-config.php:2248
+msgid "Webmaster Name"
+msgstr ""
+
+#: framework/barebones-config.php:2254
+msgid "Webmaster Email"
+msgstr ""
+
+#: framework/barebones-config.php:2260
+msgid "Author"
+msgstr ""
+
+#: framework/barebones-config.php:2261
+msgid "This will display at the \"Artist\" in the iTunes Store."
+msgstr ""
+
+#: framework/barebones-config.php:2267
+msgid "Subtitle"
+msgstr ""
+
+#: framework/barebones-config.php:2268
+msgid ""
+"Your subtitle should briefly tell the listener what they can expect to hear."
+msgstr ""
+
+#: framework/barebones-config.php:2274
+msgid "Summary"
+msgstr ""
+
+#: framework/barebones-config.php:2275
+msgid ""
+"Keep your Podcast Summary short, sweet and informative. Be sure to include a "
+"brief statement about your mission and in what region your audio content "
+"originates."
+msgstr ""
+
+#: framework/barebones-config.php:2281
+msgid "Owner Name"
+msgstr ""
+
+#: framework/barebones-config.php:2282
+msgid "This should typically be the name of your Church."
+msgstr ""
+
+#: framework/barebones-config.php:2288
+msgid "Owner Email"
+msgstr ""
+
+#: framework/barebones-config.php:2289
+msgid ""
+"Use an email address that you dont mind being made public. If someone wants "
+"to contact you regarding your Podcast this is the address they will use."
+msgstr ""
+
+#: framework/barebones-config.php:2296
+msgid "Cover Image"
+msgstr ""
+
+#: framework/barebones-config.php:2297
+msgid ""
+"This JPG will serve as the Podcast artwork in the iTunes Store. The image "
+"should be 1400px by 1400px"
+msgstr ""
+
+#: framework/barebones-config.php:2303
+msgid "Top Category"
+msgstr ""
+
+#: framework/barebones-config.php:2304
+msgid ""
+"Choose the appropriate top-level category for your Podcast listing in "
+"iTunes. <a href=\"http://www.apple.com/itunes/podcasts/specs.html#submitting"
+"\" target=\"_blank\">Reference</a>"
+msgstr ""
+
+#: framework/barebones-config.php:2310
+msgid "Sub Category"
+msgstr ""
+
+#: framework/barebones-config.php:2311
+msgid ""
+"Choose the appropriate sub category for your Podcast listing in iTunes. <a "
+"href=\"http://www.apple.com/itunes/podcasts/specs.html#submitting\" target="
+"\"_blank\">Reference</a>"
+msgstr ""
+
+#: framework/barebones-config.php:2317
+msgid "Feed URL"
+msgstr ""
+
+#: framework/barebones-config.php:2318
+msgid "This is your Feed URL to submit to iTunes"
+msgstr ""
+
+#: framework/barebones-config.php:2334
+msgid "Calendar Options"
+msgstr ""
+
+#: framework/barebones-config.php:2340
+msgid "Calendar Header View"
+msgstr ""
+
+#: framework/barebones-config.php:2341
+msgid "Select the view for your calendar header"
+msgstr ""
+
+#: framework/barebones-config.php:2351
+msgid "Limit of Events"
+msgstr ""
+
+#: framework/barebones-config.php:2352
+msgid ""
+"Enter a number to limit number of events to show maximum in a single day "
+"block of calendar and remaining in a small popover(Default is 4)"
+msgstr ""
+
+#: framework/barebones-config.php:2418
+msgid "Show WP Events"
+msgstr ""
+
+#: framework/barebones-config.php:2419
+msgid "Check if you want to show your Wordpress Events in Calendar."
+msgstr ""
+
+#: framework/barebones-config.php:2425
+msgid "Google Calendar API Key"
+msgstr ""
+
+#: framework/barebones-config.php:2426
+msgid ""
+"Enter Google Calendar Feed API Key. <a href=\"https://support.imithemes.com/"
+"knowledgebase/get-google-calendar-api/\" target=\"_blank\">Instructions "
+"Here</a>"
+msgstr ""
+
+#: framework/barebones-config.php:2432
+msgid "Google Calendar ID"
+msgstr ""
+
+#: framework/barebones-config.php:2433
+msgid ""
+"You can specify individual calendar IDs for each calendar using the calendar "
+"shortcode."
+msgstr ""
+
+#: framework/barebones-config.php:2434
+msgid ""
+"Enter your Google Calendar ID. <a href=\"https://support.imithemes.com/"
+"knowledgebase/get-google-calendar-api/\" target=\"_blank\">Instructions "
+"Here</a>"
+msgstr ""
+
+#: framework/barebones-config.php:2441
+msgid "Event Color"
+msgstr ""
+
+#: framework/barebones-config.php:2442
+msgid "Pick a default bg color for events blocks over Calendar."
+msgstr ""
+
+#: framework/barebones-config.php:2450
+msgid "Recurring Event Color"
+msgstr ""
+
+#: framework/barebones-config.php:2451
+msgid "Pick a bg color for recurring events blocks over calendar."
+msgstr ""
+
+#: framework/barebones-config.php:2459
+msgid "Event Options"
+msgstr ""
+
+#: framework/barebones-config.php:2465
+msgid "Enable Event"
+msgstr ""
+
+#: framework/barebones-config.php:2466
+msgid "Enable or disable event functionality using this switch."
+msgstr ""
+
+#: framework/barebones-config.php:2468 framework/meta-boxes.php:222
+#: framework/meta-boxes.php:240 framework/meta-boxes.php:435
+#: framework/meta-boxes.php:590 framework/meta-boxes.php:987
+#: framework/meta-boxes.php:1034 framework/meta-boxes.php:1075
+#: framework/meta-boxes.php:1119 framework/meta-boxes.php:1171
+#: framework/meta-boxes.php:1232 framework/meta-boxes.php:1284
+#: framework/meta-boxes.php:1357 framework/meta-boxes.php:1433
+#: framework/meta-boxes.php:1495 framework/meta-boxes.php:1526
+#: framework/meta-boxes.php:1563
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:60
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:60
+msgid "Enable"
+msgstr ""
+
+#: framework/barebones-config.php:2469 framework/meta-boxes.php:221
+#: framework/meta-boxes.php:239 framework/meta-boxes.php:436
+#: framework/meta-boxes.php:591 framework/meta-boxes.php:988
+#: framework/meta-boxes.php:1035 framework/meta-boxes.php:1076
+#: framework/meta-boxes.php:1118 framework/meta-boxes.php:1172
+#: framework/meta-boxes.php:1233 framework/meta-boxes.php:1285
+#: framework/meta-boxes.php:1358 framework/meta-boxes.php:1434
+#: framework/meta-boxes.php:1494 framework/meta-boxes.php:1525
+#: framework/meta-boxes.php:1562
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:61
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:61
+msgid "Disable"
+msgstr ""
+
+#: framework/barebones-config.php:2476
+msgid "Show Recurring Icon"
+msgstr ""
+
+#: framework/barebones-config.php:2477
+msgid ""
+"Show/Hide recurring icon which comes next to event name in listing/grid of "
+"events."
+msgstr ""
+
+#: framework/barebones-config.php:2485
+msgid "Show Google Icon"
+msgstr ""
+
+#: framework/barebones-config.php:2486
+msgid ""
+"Show/Hide Google icon which comes before the title of events in listing, "
+"grid, timeline layouts."
+msgstr ""
+
+#: framework/barebones-config.php:2494
+msgid "Open Google Events"
+msgstr ""
+
+#: framework/barebones-config.php:2495
+msgid "Open google event links in new tab/window."
+msgstr ""
+
+#: framework/barebones-config.php:2503
+msgid "Events Display Time"
+msgstr ""
+
+#: framework/barebones-config.php:2504
+msgid "Select till End Time/Start Time"
+msgstr ""
+
+#: framework/barebones-config.php:2511
+msgid "Events Time selector format"
+msgstr ""
+
+#: framework/barebones-config.php:2512
+msgid "Select format that you want to set for time, while creating event."
+msgstr ""
+
+#: framework/barebones-config.php:2520
+msgid "Show Event Time"
+msgstr ""
+
+#: framework/barebones-config.php:2521
+msgid "Show event time of events in listing, grid, calender layouts."
+msgstr ""
+
+#: framework/barebones-config.php:2523
+msgid "Start Time"
+msgstr ""
+
+#: framework/barebones-config.php:2524
+msgid "End Time"
+msgstr ""
+
+#: framework/barebones-config.php:2525 framework/barebones-config.php:2538
+msgid "Both"
+msgstr ""
+
+#: framework/barebones-config.php:2533
+msgid "Show Event Date"
+msgstr ""
+
+#: framework/barebones-config.php:2534
+msgid "Show event date of events in listing, grid, calender layouts."
+msgstr ""
+
+#: framework/barebones-config.php:2536
+msgid "Start Date"
+msgstr ""
+
+#: framework/barebones-config.php:2537
+msgid "End Date"
+msgstr ""
+
+#: framework/barebones-config.php:2548
+msgid "Staff Options"
+msgstr ""
+
+#: framework/barebones-config.php:2549
+msgid "Staff Posts Options"
+msgstr ""
+
+#: framework/barebones-config.php:2554
+msgid "Read More Button on Staff Listing"
+msgstr ""
+
+#: framework/barebones-config.php:2555
+msgid ""
+"Show/Hide read more button link on staff listing shortcode or template.\""
+msgstr ""
+
+#: framework/barebones-config.php:2563
+msgid "Read More Style"
+msgstr ""
+
+#: framework/barebones-config.php:2564
+msgid "Choose the read more style"
+msgstr ""
+
+#: framework/barebones-config.php:2566
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:33
+msgid "Button"
+msgstr ""
+
+#: framework/barebones-config.php:2567
+msgid "Text Link"
+msgstr ""
+
+#: framework/barebones-config.php:2576
+msgid "Read More text"
+msgstr ""
+
+#: framework/barebones-config.php:2577
+msgid "Enter button/link text for read more"
+msgstr ""
+
+#: framework/barebones-config.php:2584
+msgid "Sermon Options"
+msgstr ""
+
+#: framework/barebones-config.php:2585
+msgid "Sermon Posts Options"
+msgstr ""
+
+#: framework/barebones-config.php:2590
+msgid "Sermons Filters"
+msgstr ""
+
+#: framework/barebones-config.php:2591
+msgid "Show/Hide sort filters on sermons archive pages"
+msgstr ""
+
+#: framework/barebones-config.php:2600
+msgid "Custom Post Types"
+msgstr ""
+
+#: framework/barebones-config.php:2605
+msgid ""
+"Sub sections here for each post type will let you change the permalinks slug "
+"for each post type. Also would be able to change the Title, Category, Tag "
+"title for menu on the left sidebar of WP Dashboard."
+msgstr ""
+
+#: framework/barebones-config.php:2607
+msgid ""
+"Make sure you go to Settings > Permalinks page once you make any change to "
+"any post type here to flush the permalinks structure cache. You just need to "
+"go to that permalinks page, no need to save the options."
+msgstr ""
+
+#: framework/barebones-config.php:2612
+msgid ""
+"If the slug is identical to an existing page WP will display the cpt posts "
+"as blog posts, not with their own style. (unless you can work your php magic "
+"and get over this issue)."
+msgstr ""
+
+#: framework/barebones-config.php:2621
+msgid ""
+"From here you can change the slug for event post types, along with title of "
+"the post types, taxonomies that displays on the left sidebar of WP Dashboard"
+msgstr ""
+
+#: framework/barebones-config.php:2626 framework/barebones-config.php:2696
+#: framework/barebones-config.php:2787 framework/barebones-config.php:2850
+#: framework/barebones-config.php:2913
+msgid ""
+"Make sure you go to Settings > Permalinks page once you make any change here "
+"in order to flush the permalinks structure cache. You just need to go to "
+"that permalinks page, no need to save the options."
+msgstr ""
+
+#: framework/barebones-config.php:2632
+msgid "Events permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2633 framework/barebones-config.php:2661
+#: framework/barebones-config.php:2703 framework/barebones-config.php:2731
+#: framework/barebones-config.php:2745 framework/barebones-config.php:2759
+#: framework/barebones-config.php:2794 framework/barebones-config.php:2822
+#: framework/barebones-config.php:2857 framework/barebones-config.php:2885
+#: framework/barebones-config.php:2920 framework/barebones-config.php:2948
+msgid "All lowercase, no spaces in between words."
+msgstr ""
+
+#: framework/barebones-config.php:2639
+msgid "Events menu name"
+msgstr ""
+
+#: framework/barebones-config.php:2640 framework/barebones-config.php:2647
+#: framework/barebones-config.php:2654 framework/barebones-config.php:2668
+#: framework/barebones-config.php:2710 framework/barebones-config.php:2717
+#: framework/barebones-config.php:2724 framework/barebones-config.php:2738
+#: framework/barebones-config.php:2752 framework/barebones-config.php:2801
+#: framework/barebones-config.php:2808 framework/barebones-config.php:2815
+#: framework/barebones-config.php:2864 framework/barebones-config.php:2871
+#: framework/barebones-config.php:2878 framework/barebones-config.php:2927
+#: framework/barebones-config.php:2934 framework/barebones-config.php:2941
+#: framework/barebones-config.php:2955
+msgid "For the WP Dashboard menu"
+msgstr ""
+
+#: framework/barebones-config.php:2646
+msgid "Events post singular item title"
+msgstr ""
+
+#: framework/barebones-config.php:2653
+msgid "Events categories title"
+msgstr ""
+
+#: framework/barebones-config.php:2660
+msgid "Event Category permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2667
+msgid "Events payments title"
+msgstr ""
+
+#: framework/barebones-config.php:2674
+msgid "Events menu icon"
+msgstr ""
+
+#: framework/barebones-config.php:2675 framework/barebones-config.php:2766
+#: framework/barebones-config.php:2829 framework/barebones-config.php:2892
+#: framework/barebones-config.php:2962
+msgid "For the WP Dashboard menu. Choose icon class name from here: "
+msgstr ""
+
+#: framework/barebones-config.php:2681
+msgid "Disable Event post type archive page."
+msgstr ""
+
+#: framework/barebones-config.php:2682 framework/barebones-config.php:2773
+#: framework/barebones-config.php:2836 framework/barebones-config.php:2899
+#: framework/barebones-config.php:2969
+msgid ""
+"By default WordPress create a page for all post types which makes it "
+"impossible for you to create a new page with the same slug as of custom post "
+"type. Check this to disable the default cpt page."
+msgstr ""
+
+#: framework/barebones-config.php:2690
+msgid "Sermon"
+msgstr ""
+
+#: framework/barebones-config.php:2691
+msgid ""
+"From here you can change the slug for sermon post types, along with title of "
+"the post types, taxonomies that displays on the left sidebar of WP Dashboard"
+msgstr ""
+
+#: framework/barebones-config.php:2702
+msgid "Sermons permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2709
+msgid "Sermons menu name"
+msgstr ""
+
+#: framework/barebones-config.php:2716
+msgid "Sermons post singular item title"
+msgstr ""
+
+#: framework/barebones-config.php:2723
+msgid "Sermons categories title"
+msgstr ""
+
+#: framework/barebones-config.php:2730
+msgid "Sermon Category permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2737
+msgid "Sermons tags title"
+msgstr ""
+
+#: framework/barebones-config.php:2744
+msgid "Sermons Tag permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2751
+msgid "Sermons Speakers title"
+msgstr ""
+
+#: framework/barebones-config.php:2758
+msgid "Sermons Speakers permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2765
+msgid "Sermons menu icon"
+msgstr ""
+
+#: framework/barebones-config.php:2772
+msgid "Disable Sermons post type archive page."
+msgstr ""
+
+#: framework/barebones-config.php:2781 framework/theme-functions.php:2071
+msgid "Staff"
+msgstr ""
+
+#: framework/barebones-config.php:2782
+msgid ""
+"From here you can change the slug for staff post types, along with title of "
+"the post types, taxonomies that displays on the left sidebar of WP Dashboard"
+msgstr ""
+
+#: framework/barebones-config.php:2793
+msgid "Staff permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2800
+msgid "Staff menu name"
+msgstr ""
+
+#: framework/barebones-config.php:2807
+msgid "Staff post singular item title"
+msgstr ""
+
+#: framework/barebones-config.php:2814
+msgid "Staff categories title"
+msgstr ""
+
+#: framework/barebones-config.php:2821
+msgid "Staff Category permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2828
+msgid "Staff menu icon"
+msgstr ""
+
+#: framework/barebones-config.php:2835
+msgid "Disable Staff post type archive page."
+msgstr ""
+
+#: framework/barebones-config.php:2844
+msgid "Gallery"
+msgstr ""
+
+#: framework/barebones-config.php:2845
+msgid ""
+"From here you can change the slug for gallery post types, along with title "
+"of the post types, taxonomies that displays on the left sidebar of WP "
+"Dashboard"
+msgstr ""
+
+#: framework/barebones-config.php:2856
+msgid "Gallery permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2863
+msgid "Gallery menu name"
+msgstr ""
+
+#: framework/barebones-config.php:2870
+msgid "Gallery post singular item title"
+msgstr ""
+
+#: framework/barebones-config.php:2877
+msgid "Gallery categories title"
+msgstr ""
+
+#: framework/barebones-config.php:2884
+msgid "Gallery Category permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2891
+msgid "Gallery menu icon"
+msgstr ""
+
+#: framework/barebones-config.php:2898
+msgid "Disable Gallery post type archive page."
+msgstr ""
+
+#: framework/barebones-config.php:2907
+msgid "Causes"
+msgstr ""
+
+#: framework/barebones-config.php:2908
+msgid ""
+"From here you can change the slug for Cause post types, along with title of "
+"the post types, taxonomies that displays on the left sidebar of WP Dashboard"
+msgstr ""
+
+#: framework/barebones-config.php:2919
+msgid "Cause permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2926
+msgid "Causes menu name"
+msgstr ""
+
+#: framework/barebones-config.php:2933
+msgid "Cause post singular item title"
+msgstr ""
+
+#: framework/barebones-config.php:2940
+msgid "Causes categories title"
+msgstr ""
+
+#: framework/barebones-config.php:2947
+msgid "Causes Category permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:2954
+msgid "Causes payments title"
+msgstr ""
+
+#: framework/barebones-config.php:2961
+msgid "Causes menu icon"
+msgstr ""
+
+#: framework/barebones-config.php:2968
+msgid "Disable Causes post type archive page."
+msgstr ""
+
+#: framework/barebones-config.php:2976
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: framework/barebones-config.php:2981
+msgid "CSS Code"
+msgstr ""
+
+#: framework/barebones-config.php:2982
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/barebones-config.php:2991
+msgid "JS Code"
+msgstr ""
+
+#: framework/barebones-config.php:2992
+msgid "Paste your JS code here."
+msgstr ""
+
+#: framework/barebones-config.php:3002
+msgid "Import / Export"
+msgstr ""
+
+#: framework/barebones-config.php:3003
+msgid "Import and Export your Theme Framework settings from file, text or URL."
+msgstr ""
+
+#: framework/barebones-config.php:3009
+msgid "Import Export"
+msgstr ""
+
+#: framework/barebones-config.php:3010
+msgid "Save and restore your Theme options"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:74
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:78
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:98
+msgid "Move up"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:109
+msgid "Move down"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:111
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:121 framework/meta-boxes.php:93
+msgid "URL"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:128
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:134
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:141
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:146
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:152
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:158
+msgid "Description"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:160
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:165
+msgid "Move"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:166
+msgid "Up one"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:167
+msgid "Down one"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:170
+msgid "To the top"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:182
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:196
+msgid "Select Post Type"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:211
+#: framework/theme-functions.php:466
+msgid "Select Sidebar"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:222
+msgid "Enter Number of Post Ex-3"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:227
+msgid "Enter Comma seperated value Ex-1,2,3"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:232
+msgid "Textarea may be used as Text Editor"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:247
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:259
+msgid "Remove"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:260
+msgid "Cancel"
+msgstr ""
+
+#: framework/meta-boxes.php:31
+msgid "Staff Member Meta"
+msgstr ""
+
+#: framework/meta-boxes.php:37
+msgid "Enter staff member's Facebook URL."
+msgstr ""
+
+#: framework/meta-boxes.php:45
+msgid "Enter staff member's Twitter username."
+msgstr ""
+
+#: framework/meta-boxes.php:53
+msgid "Enter staff member's Google+ URL."
+msgstr ""
+
+#: framework/meta-boxes.php:60
+msgid "Enter staff member's Pinterest URL."
+msgstr ""
+
+#: framework/meta-boxes.php:65 framework/meta-boxes.php:873
+#: single-event.php:371
+msgid "Email"
+msgstr ""
+
+#: framework/meta-boxes.php:67
+msgid "Enter staff member's Email."
+msgstr ""
+
+#: framework/meta-boxes.php:72
+msgid "Phone Number"
+msgstr ""
+
+#: framework/meta-boxes.php:74
+msgid "Enter staff member's phone number."
+msgstr ""
+
+#: framework/meta-boxes.php:79
+msgid "Job Title"
+msgstr ""
+
+#: framework/meta-boxes.php:81
+msgid "Enter staff member's job title."
+msgstr ""
+
+#: framework/meta-boxes.php:86
+msgid "Social Icon"
+msgstr ""
+
+#: framework/meta-boxes.php:88
+msgid "Select social icons and enter social profile URL."
+msgstr ""
+
+#: framework/meta-boxes.php:92
+msgid "Social"
+msgstr ""
+
+#: framework/meta-boxes.php:103
+msgid "Cause Details"
+msgstr ""
+
+#: framework/meta-boxes.php:107
+msgid "Cause End Date"
+msgstr ""
+
+#: framework/meta-boxes.php:109
+msgid "Choose date when this cause will end and stop accepting donations."
+msgstr ""
+
+#: framework/meta-boxes.php:119
+msgid "Cause Amount"
+msgstr ""
+
+#: framework/meta-boxes.php:121
+msgid "Insert target amount required for this cause."
+msgstr ""
+
+#: framework/meta-boxes.php:125
+msgid "Cause Amount Received"
+msgstr ""
+
+#: framework/meta-boxes.php:127
+msgid "Total amount received so far for this cause."
+msgstr ""
+
+#: framework/meta-boxes.php:138
+msgid "Event Details Meta Box"
+msgstr ""
+
+#: framework/meta-boxes.php:142
+msgid "Event Start Date"
+msgstr ""
+
+#: framework/meta-boxes.php:144
+msgid "Choose date when this event will start."
+msgstr ""
+
+#: framework/meta-boxes.php:154
+msgid " Event End Date"
+msgstr ""
+
+#: framework/meta-boxes.php:156
+msgid "Choose date when this event will end."
+msgstr ""
+
+#: framework/meta-boxes.php:166
+msgid "All Day Event"
+msgstr ""
+
+#: framework/meta-boxes.php:167
+msgid ""
+"Check this option if this event will be happening for the day of the chosen "
+"start/end date. This will work for single day events only."
+msgstr ""
+
+#: framework/meta-boxes.php:172
+msgid "Event Start Time"
+msgstr ""
+
+#: framework/meta-boxes.php:187
+msgid "Event End Time"
+msgstr ""
+
+#: framework/meta-boxes.php:202 framework/theme-functions.php:2069
+msgid "Address"
+msgstr ""
+
+#: framework/meta-boxes.php:204
+msgid "Enter event's address."
+msgstr ""
+
+#: framework/meta-boxes.php:210
+msgid "Contact Number"
+msgstr ""
+
+#: framework/meta-boxes.php:212
+msgid ""
+"Enter event's manager contact number. This is a static value which you might "
+"want to show on single event page."
+msgstr ""
+
+#: framework/meta-boxes.php:216
+msgid "Event Registration"
+msgstr ""
+
+#: framework/meta-boxes.php:218
+msgid "Select Enable to activate Event Registration."
+msgstr ""
+
+#: framework/meta-boxes.php:227
+msgid "Event Registration Fee"
+msgstr ""
+
+#: framework/meta-boxes.php:229
+msgid ""
+"Enter event's registration fee(This field will work only when imithemes "
+"payment plugin is active and above option event registration is enabled.) "
+"For multiple type tickets use the other metabox \"Event Tickets Type\" below "
+"and leave this field empty."
+msgstr ""
+
+#: framework/meta-boxes.php:234
+msgid "Guest Registration"
+msgstr ""
+
+#: framework/meta-boxes.php:236
+msgid ""
+"Select enable to activate guest registration(When enabled it will not be "
+"mandatory for users to register on your website to be able to register for "
+"an event). Works only when above option event registration is enabled."
+msgstr ""
+
+#: framework/meta-boxes.php:246
+msgid "Custom Registration Button URL"
+msgstr ""
+
+#: framework/meta-boxes.php:248
+msgid ""
+"For example EventBrite event page URL of yours. This URL will be used for "
+"the registration button on single event page when the above option event "
+"registration is enabled"
+msgstr ""
+
+#: framework/meta-boxes.php:253
+msgid "Open custom URL in new Tab/Window"
+msgstr ""
+
+#: framework/meta-boxes.php:265
+msgid "Recurring Options"
+msgstr ""
+
+#: framework/meta-boxes.php:270
+msgid "Event Frequency"
+msgstr ""
+
+#: framework/meta-boxes.php:272
+msgid "Select Frequency."
+msgstr ""
+
+#: framework/meta-boxes.php:275
+msgid "Not Required"
+msgstr ""
+
+#: framework/meta-boxes.php:276 framework/theme-functions.php:1421
+#: framework/theme-functions.php:2110
+msgid "Every Day"
+msgstr ""
+
+#: framework/meta-boxes.php:277 framework/theme-functions.php:1424
+msgid "Every Second Day"
+msgstr ""
+
+#: framework/meta-boxes.php:278 framework/theme-functions.php:1427
+msgid "Every Third Day"
+msgstr ""
+
+#: framework/meta-boxes.php:279 framework/theme-functions.php:1430
+msgid "Every Fourth Day"
+msgstr ""
+
+#: framework/meta-boxes.php:280 framework/theme-functions.php:1433
+msgid "Every Fifth Day"
+msgstr ""
+
+#: framework/meta-boxes.php:281 framework/theme-functions.php:1436
+msgid "Every Sixth Day"
+msgstr ""
+
+#: framework/meta-boxes.php:282 framework/theme-functions.php:1439
+msgid "Every Week"
+msgstr ""
+
+#: framework/meta-boxes.php:283 framework/theme-functions.php:1442
+#: framework/theme-functions.php:2124
+msgid "Every Month"
+msgstr ""
+
+#: framework/meta-boxes.php:284
+msgid "More Options"
+msgstr ""
+
+#: framework/meta-boxes.php:285
+msgid "Multiple Dates Options"
+msgstr ""
+
+#: framework/meta-boxes.php:289
+msgid "Event Week Day"
+msgstr ""
+
+#: framework/meta-boxes.php:291
+msgid "Select Week Day."
+msgstr ""
+
+#: framework/meta-boxes.php:294
+msgid "Sunday"
+msgstr ""
+
+#: framework/meta-boxes.php:295
+msgid "Monday"
+msgstr ""
+
+#: framework/meta-boxes.php:296
+msgid "Tuesday"
+msgstr ""
+
+#: framework/meta-boxes.php:297
+msgid "Wednesday"
+msgstr ""
+
+#: framework/meta-boxes.php:298
+msgid "Thursday"
+msgstr ""
+
+#: framework/meta-boxes.php:299
+msgid "Friday"
+msgstr ""
+
+#: framework/meta-boxes.php:300
+msgid "Saturday"
+msgstr ""
+
+#: framework/meta-boxes.php:305
+msgid "Day of Month"
+msgstr ""
+
+#: framework/meta-boxes.php:307
+msgid "Select Day of Month."
+msgstr ""
+
+#: framework/meta-boxes.php:310 functions.php:112
+msgid "First"
+msgstr ""
+
+#: framework/meta-boxes.php:311
+msgid "Second"
+msgstr ""
+
+#: framework/meta-boxes.php:312
+msgid "Third"
+msgstr ""
+
+#: framework/meta-boxes.php:313
+msgid "Fourth"
+msgstr ""
+
+#: framework/meta-boxes.php:314 functions.php:118
+msgid "Last"
+msgstr ""
+
+#: framework/meta-boxes.php:319
+msgid "Event Multiple Recurring Date"
+msgstr ""
+
+#: framework/meta-boxes.php:321
+msgid ""
+"Insert multiple dates for recurring event, this will work only with single "
+"day event."
+msgstr ""
+
+#: framework/meta-boxes.php:333
+msgid "Number of times to repeat event"
+msgstr ""
+
+#: framework/meta-boxes.php:335
+msgid ""
+"Enter the number of how many time this event should repeat. max number of "
+"times an event can repeat is 999, events which have different start and end "
+"date can not be set for recurrence. DOn not enter anything in this field if "
+"setting multiple recurring dates."
+msgstr ""
+
+#: framework/meta-boxes.php:340
+msgid "Do not change"
+msgstr ""
+
+#: framework/meta-boxes.php:342
+msgid ""
+"If any changes done in this file, may your theme will not work like running "
+"now."
+msgstr ""
+
+#: framework/meta-boxes.php:350
+msgid "Attendess & Contact Details"
+msgstr ""
+
+#: framework/meta-boxes.php:355 framework/theme-functions.php:2070
+#: single-event.php:182 single-event.php:190
+msgid "Attendees"
+msgstr ""
+
+#: framework/meta-boxes.php:357
+msgid ""
+"Enter number of attendees. This is a static value which you might want to "
+"show on single event page."
+msgstr ""
+
+#: framework/meta-boxes.php:362
+msgid "Staff Members"
+msgstr ""
+
+#: framework/meta-boxes.php:364
+msgid ""
+"Enter number of staff members. This is a static value which you might want "
+"to show on single event page."
+msgstr ""
+
+#: framework/meta-boxes.php:368
+msgid "Email Address"
+msgstr ""
+
+#: framework/meta-boxes.php:370
+msgid ""
+"Enter Email for Event. This email address is where theme will send event "
+"registrants info and can be used by event page visitors to contact directly"
+msgstr ""
+
+#: framework/meta-boxes.php:378 framework/meta-boxes.php:383
+msgid "Featured Event"
+msgstr ""
+
+#: framework/meta-boxes.php:385
+msgid ""
+"Select for featured event. If this is set to Yes then this event will be "
+"available as an option to select for featured event Widget at Appearance > "
+"Widgets"
+msgstr ""
+
+#: framework/meta-boxes.php:399
+msgid "Post Media"
+msgstr ""
+
+#: framework/meta-boxes.php:403
+msgid "Video URL"
+msgstr ""
+
+#: framework/meta-boxes.php:405
+msgid "Enter the video URL."
+msgstr ""
+
+#: framework/meta-boxes.php:410
+msgid "Link"
+msgstr ""
+
+#: framework/meta-boxes.php:412
+msgid "Enter the URL for link gallery type post."
+msgstr ""
+
+#: framework/meta-boxes.php:417
+msgid "Gallery Images"
+msgstr ""
+
+#: framework/meta-boxes.php:419
+msgid "Choose/Upload gallery images."
+msgstr ""
+
+#: framework/meta-boxes.php:424 framework/meta-boxes.php:560
+#: framework/meta-boxes.php:957
+msgid "Slider Images"
+msgstr ""
+
+#: framework/meta-boxes.php:426
+msgid "Enter slider images."
+msgstr ""
+
+#: framework/meta-boxes.php:430 framework/meta-boxes.php:585
+#: framework/meta-boxes.php:982
+msgid "Slider Pagination"
+msgstr ""
+
+#: framework/meta-boxes.php:432 framework/meta-boxes.php:984
+msgid "Enable to show pagination for slider."
+msgstr ""
+
+#: framework/meta-boxes.php:441 framework/meta-boxes.php:567
+#: framework/meta-boxes.php:964
+msgid "Slider Autoplay"
+msgstr ""
+
+#: framework/meta-boxes.php:443 framework/meta-boxes.php:569
+#: framework/meta-boxes.php:966
+msgid "Select Yes to slide automatically."
+msgstr ""
+
+#: framework/meta-boxes.php:452 framework/meta-boxes.php:578
+msgid "Auto slide interval"
+msgstr ""
+
+#: framework/meta-boxes.php:454 framework/meta-boxes.php:580
+msgid ""
+"Default per slide interval is 5 seconds. You can change it to anything you "
+"like. 1000 is equals to 1 second."
+msgstr ""
+
+#: framework/meta-boxes.php:459 framework/meta-boxes.php:596
+#: framework/meta-boxes.php:994
+msgid "Slider Direction Arrows"
+msgstr ""
+
+#: framework/meta-boxes.php:461 framework/meta-boxes.php:598
+#: framework/meta-boxes.php:996
+msgid "Select Yes to show slider direction arrows."
+msgstr ""
+
+#: framework/meta-boxes.php:470 framework/meta-boxes.php:607
+#: framework/meta-boxes.php:1005
+msgid "Slider Effects"
+msgstr ""
+
+#: framework/meta-boxes.php:472 framework/meta-boxes.php:1007
+msgid "Select effect for slider."
+msgstr ""
+
+#: framework/meta-boxes.php:475 framework/meta-boxes.php:612
+#: framework/meta-boxes.php:1010
+msgid "Fade"
+msgstr ""
+
+#: framework/meta-boxes.php:476 framework/meta-boxes.php:613
+#: framework/meta-boxes.php:1011
+msgid "Slide"
+msgstr ""
+
+#: framework/meta-boxes.php:481
+msgid "Audio Display"
+msgstr ""
+
+#: framework/meta-boxes.php:483
+msgid "Select audio type."
+msgstr ""
+
+#: framework/meta-boxes.php:486
+msgid "By Soundcloud"
+msgstr ""
+
+#: framework/meta-boxes.php:487 framework/meta-boxes.php:660
+#: framework/meta-boxes.php:746
+msgid "By Upload"
+msgstr ""
+
+#: framework/meta-boxes.php:492
+msgid "SoundCloud Track"
+msgstr ""
+
+#: framework/meta-boxes.php:494
+msgid "Enter SoundCloud iframe code to show on post."
+msgstr ""
+
+#: framework/meta-boxes.php:500 framework/meta-boxes.php:665
+#: framework/page-builder/widgets/sermons-list-widget/tpl/grid-view.php:49
+#: framework/page-builder/widgets/sermons-list-widget/tpl/list-view.php:47
+#: single-sermons.php:50 taxonomy-sermons-category.php:51
+#: taxonomy-sermons-speakers.php:52 taxonomy-sermons-tag.php:52
+#: template-sermons.php:68
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:502
+msgid "Upload audio."
+msgstr ""
+
+#: framework/meta-boxes.php:513
+msgid "Page/Post Header Options"
+msgstr ""
+
+#: framework/meta-boxes.php:518
+msgid "Custom Title"
+msgstr ""
+
+#: framework/meta-boxes.php:520
+msgid "Enter custom title for the page."
+msgstr ""
+
+#: framework/meta-boxes.php:524
+msgid "Header Type"
+msgstr ""
+
+#: framework/meta-boxes.php:526
+msgid "Select header type"
+msgstr ""
+
+#: framework/meta-boxes.php:529
+msgid "Image Banner"
+msgstr ""
+
+#: framework/meta-boxes.php:530 framework/meta-boxes.php:944
+msgid "Flex Slider"
+msgstr ""
+
+#: framework/meta-boxes.php:531 framework/meta-boxes.php:945
+#: framework/tgm/plugin-includes.php:22
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/meta-boxes.php:532
+msgid "Color Banner"
+msgstr ""
+
+#: framework/meta-boxes.php:536
+msgid "Banner Image"
+msgstr ""
+
+#: framework/meta-boxes.php:538
+msgid "Upload banner image for header for this Page/Post."
+msgstr ""
+
+#: framework/meta-boxes.php:544 framework/meta-boxes.php:949
+msgid "Select Revolution Slider from list"
+msgstr ""
+
+#: framework/meta-boxes.php:546 framework/meta-boxes.php:951
+msgid "Select Revolution Slider from the list"
+msgstr ""
+
+#: framework/meta-boxes.php:552
+msgid "Header height in px"
+msgstr ""
+
+#: framework/meta-boxes.php:554
+msgid "Default height is 150px."
+msgstr ""
+
+#: framework/meta-boxes.php:562
+msgid "Upload/Choose slider images."
+msgstr ""
+
+#: framework/meta-boxes.php:587
+msgid "Select Enable to show pagination for slider."
+msgstr ""
+
+#: framework/meta-boxes.php:609
+msgid "Select effects for slider."
+msgstr ""
+
+#: framework/meta-boxes.php:618
+msgid "Banner Color"
+msgstr ""
+
+#: framework/meta-boxes.php:629 framework/meta-boxes.php:634
+msgid "Custom Description"
+msgstr ""
+
+#: framework/meta-boxes.php:636
+msgid ""
+"Enter custom description for the post that is shown on the right of page "
+"title."
+msgstr ""
+
+#: framework/meta-boxes.php:645
+msgid "Sermon Media"
+msgstr ""
+
+#: framework/meta-boxes.php:650
+msgid "Audio for Sermon"
+msgstr ""
+
+#: framework/meta-boxes.php:652
+msgid "Add audio to your sermons either by direct URL or Upload here"
+msgstr ""
+
+#: framework/meta-boxes.php:655
+msgid "Upload Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:657
+msgid ""
+"Select your audio source. By URL will be requiring you to put a valid MP3 "
+"audio file URL."
+msgstr ""
+
+#: framework/meta-boxes.php:661 framework/meta-boxes.php:747
+msgid "By URL"
+msgstr ""
+
+#: framework/meta-boxes.php:667
+msgid "Upload .mp3 file format."
+msgstr ""
+
+#: framework/meta-boxes.php:673
+msgid "Audio URL"
+msgstr ""
+
+#: framework/meta-boxes.php:675
+msgid "Enter a valid mp3 audio file URL ending with .mp3 extension"
+msgstr ""
+
+#: framework/meta-boxes.php:682
+msgid "Video for Sermon"
+msgstr ""
+
+#: framework/meta-boxes.php:686
+msgid "Sermon Video"
+msgstr ""
+
+#: framework/meta-boxes.php:688
+msgid "Select video source."
+msgstr ""
+
+#: framework/meta-boxes.php:691
+msgid "By Vimeo/Youtube URL"
+msgstr ""
+
+#: framework/meta-boxes.php:692
+msgid "Custom Video"
+msgstr ""
+
+#: framework/meta-boxes.php:696
+msgid "Sermon Video .mp4"
+msgstr ""
+
+#: framework/meta-boxes.php:698 framework/meta-boxes.php:802
+msgid ""
+"This is mandatory for custom video. MP4 for Safari, IE9, iPhone, iPad, "
+"Android, and Windows Phone 7"
+msgstr ""
+
+#: framework/meta-boxes.php:704
+msgid "Sermon Video .webm"
+msgstr ""
+
+#: framework/meta-boxes.php:706 framework/meta-boxes.php:810
+msgid "WebM/VP8 for Firefox4, Opera, and Chrome"
+msgstr ""
+
+#: framework/meta-boxes.php:712
+msgid "Sermon Video .ogv"
+msgstr ""
+
+#: framework/meta-boxes.php:714 framework/meta-boxes.php:818
+msgid "Ogg/Vorbis for older Firefox and Opera versions"
+msgstr ""
+
+#: framework/meta-boxes.php:720
+msgid "Sermon Video Poster Image"
+msgstr ""
+
+#: framework/meta-boxes.php:722
+msgid "An image which will appear as a poster prior to video start playing."
+msgstr ""
+
+#: framework/meta-boxes.php:728
+msgid "Sermon URL"
+msgstr ""
+
+#: framework/meta-boxes.php:730
+msgid "Enter vimeo/youtube URL for sermon."
+msgstr ""
+
+#: framework/meta-boxes.php:736
+msgid "PDF for Sermon"
+msgstr ""
+
+#: framework/meta-boxes.php:741 framework/meta-boxes.php:752
+msgid "Upload PDF"
+msgstr ""
+
+#: framework/meta-boxes.php:743
+msgid "Select PDF file SOURCE."
+msgstr ""
+
+#: framework/meta-boxes.php:754
+msgid "Upload PDF for sermon."
+msgstr ""
+
+#: framework/meta-boxes.php:761
+msgid "PDF URL"
+msgstr ""
+
+#: framework/meta-boxes.php:763
+msgid "Enter PDF URL for sermon."
+msgstr ""
+
+#: framework/meta-boxes.php:770
+msgid "Additional Media Attachments"
+msgstr ""
+
+#: framework/meta-boxes.php:771
+msgid "These media items will be displayed on single sermon page"
+msgstr ""
+
+#: framework/meta-boxes.php:776
+msgid "Additional Vimeo Video"
+msgstr ""
+
+#: framework/meta-boxes.php:778
+msgid "Enter Vimeo video URL"
+msgstr ""
+
+#: framework/meta-boxes.php:784
+msgid "Additional Youtube Video"
+msgstr ""
+
+#: framework/meta-boxes.php:786
+msgid "Enter Youtube video URL"
+msgstr ""
+
+#: framework/meta-boxes.php:792
+msgid "Additional Soundcloud Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:794
+msgid "Enter Soundcloud audio URL"
+msgstr ""
+
+#: framework/meta-boxes.php:800
+msgid "Additional Sermon Video .mp4"
+msgstr ""
+
+#: framework/meta-boxes.php:808
+msgid "Additional Sermon Video .webm"
+msgstr ""
+
+#: framework/meta-boxes.php:816
+msgid "Additional Sermon Video .ogv"
+msgstr ""
+
+#: framework/meta-boxes.php:824
+msgid "Additional Sermon Video Poster Image"
+msgstr ""
+
+#: framework/meta-boxes.php:826
+msgid "An image which will appear as a poster prior to video play start."
+msgstr ""
+
+#: framework/meta-boxes.php:836
+msgid "Sermon Podcast"
+msgstr ""
+
+#: framework/meta-boxes.php:840
+msgid "Sermon audio length"
+msgstr ""
+
+#: framework/meta-boxes.php:842
+msgid "Enter audio length in format hh:mm:ss"
+msgstr ""
+
+#: framework/meta-boxes.php:846
+msgid "Sermon audio file size"
+msgstr ""
+
+#: framework/meta-boxes.php:848
+msgid "Enter file size for the uploaded audio file."
+msgstr ""
+
+#: framework/meta-boxes.php:852
+msgid "Sermon short description"
+msgstr ""
+
+#: framework/meta-boxes.php:854
+msgid ""
+"Enter short and sweet description for this sermon to show at podcast players."
+msgstr ""
+
+#: framework/meta-boxes.php:862 template-contact.php:8
+msgid "Contact Form"
+msgstr ""
+
+#: framework/meta-boxes.php:875
+msgid ""
+"Enter email address to use in contact form where the forms submissions will "
+"be sent. By default admin email will be used."
+msgstr ""
+
+#: framework/meta-boxes.php:880
+msgid "Subject"
+msgstr ""
+
+#: framework/meta-boxes.php:882
+msgid "Enter subject to use in contact page."
+msgstr ""
+
+#: framework/meta-boxes.php:890
+msgid "Contact Details"
+msgstr ""
+
+#: framework/meta-boxes.php:899
+msgid "Our Location Text"
+msgstr ""
+
+#: framework/meta-boxes.php:901
+msgid "Enter the our location text to display on contact page."
+msgstr ""
+
+#: framework/meta-boxes.php:905
+msgid "Map Display"
+msgstr ""
+
+#: framework/meta-boxes.php:907
+msgid "Display Map?"
+msgstr ""
+
+#: framework/meta-boxes.php:915
+msgid "Map Box Code"
+msgstr ""
+
+#: framework/meta-boxes.php:917
+msgid ""
+"Enter the map iframe embed code to display on contact page. You can get your "
+"embed code from http://maps.google.com/"
+msgstr ""
+
+#: framework/meta-boxes.php:926
+msgid "Home Page Header Slider"
+msgstr ""
+
+#: framework/meta-boxes.php:935
+msgid ""
+"<p style=\"background-color:red; color:#fff; padding:5px 20px\">If you are "
+"setting this page as your front page at Settings > Reading then use this "
+"metabox options for the page header slider instead of page/post header "
+"options.</p>"
+msgstr ""
+
+#: framework/meta-boxes.php:939
+msgid "Choose slider"
+msgstr ""
+
+#: framework/meta-boxes.php:941
+msgid "Select slider type for your homepage."
+msgstr ""
+
+#: framework/meta-boxes.php:959
+msgid "Choose/Upload slider images."
+msgstr ""
+
+#: framework/meta-boxes.php:975
+msgid "Autoplay slide interval"
+msgstr ""
+
+#: framework/meta-boxes.php:977
+msgid ""
+"Default per slide interval is 5000. You can change it to anything you like. "
+"1000 is equals to 1 second."
+msgstr ""
+
+#: framework/meta-boxes.php:1020
+msgid "Categories Area"
+msgstr ""
+
+#: framework/meta-boxes.php:1029
+msgid "Switch for categories area"
+msgstr ""
+
+#: framework/meta-boxes.php:1031
+msgid "Select enable or disable to show/hide categories posts area."
+msgstr ""
+
+#: framework/meta-boxes.php:1040
+msgid "Category show on home page"
+msgstr ""
+
+#: framework/meta-boxes.php:1042
+msgid "Choose Category to show  on Home page"
+msgstr ""
+
+#: framework/meta-boxes.php:1049
+msgid "Number of Post"
+msgstr ""
+
+#: framework/meta-boxes.php:1051
+msgid "Enter number of post"
+msgstr ""
+
+#: framework/meta-boxes.php:1061
+msgid "Select option for Area Under Slider"
+msgstr ""
+
+#: framework/meta-boxes.php:1070
+msgid "Switch for section under slider"
+msgstr ""
+
+#: framework/meta-boxes.php:1072
+msgid ""
+"Select enable or disable to show/hide Event/Sermon/Contents under slider."
+msgstr ""
+
+#: framework/meta-boxes.php:1081
+msgid "Recent Event/Sermon"
+msgstr ""
+
+#: framework/meta-boxes.php:1083
+msgid "Choose latest item to show under slider"
+msgstr ""
+
+#: framework/meta-boxes.php:1086
+msgid "Latest event"
+msgstr ""
+
+#: framework/meta-boxes.php:1087 template-h-third.php:417
+#: template-home-pb.php:265 template-home.php:403
+msgid "Latest Sermon"
+msgstr ""
+
+#: framework/meta-boxes.php:1088
+msgid "Custom message"
+msgstr ""
+
+#: framework/meta-boxes.php:1093
+msgid "Custom Text Message"
+msgstr ""
+
+#: framework/meta-boxes.php:1095
+msgid "Enter custom message, this field accept shortcodes as well."
+msgstr ""
+
+#: framework/meta-boxes.php:1100 framework/meta-boxes.php:1238
+#: framework/meta-boxes.php:1607
+msgid "Event Category"
+msgstr ""
+
+#: framework/meta-boxes.php:1102 framework/meta-boxes.php:1240
+#: framework/meta-boxes.php:1609
+msgid "Choose event category"
+msgstr ""
+
+#: framework/meta-boxes.php:1113
+msgid "Switch for Going on events"
+msgstr ""
+
+#: framework/meta-boxes.php:1115
+msgid "Select enable or disable to show/hide Going On Events under slider."
+msgstr ""
+
+#: framework/meta-boxes.php:1125
+msgid "Custom Going On Events Title"
+msgstr ""
+
+#: framework/meta-boxes.php:1127
+msgid "Enter going on events block title."
+msgstr ""
+
+#: framework/meta-boxes.php:1132
+msgid "Sermons Category"
+msgstr ""
+
+#: framework/meta-boxes.php:1134
+msgid "Choose sermon category"
+msgstr ""
+
+#: framework/meta-boxes.php:1145
+msgid "All Events/Sermons Button URL"
+msgstr ""
+
+#: framework/meta-boxes.php:1147
+msgid "Enter URL for the button link to your all events/sermons page"
+msgstr ""
+
+#: framework/meta-boxes.php:1157
+msgid "Featured Blocks Area"
+msgstr ""
+
+#: framework/meta-boxes.php:1166
+msgid "Switch for featured blocks"
+msgstr ""
+
+#: framework/meta-boxes.php:1168
+msgid "Select enable or disable to show/hide featured blocks."
+msgstr ""
+
+#: framework/meta-boxes.php:1177
+msgid "Featured Blocks to show on home page"
+msgstr ""
+
+#: framework/meta-boxes.php:1179
+msgid ""
+"Enter the Posts/Pages comma separated ID to show featured blocks on Home "
+"page. example - 1,2,3"
+msgstr ""
+
+#: framework/meta-boxes.php:1185
+msgid "Title for featured blocks"
+msgstr ""
+
+#: framework/meta-boxes.php:1187
+msgid ""
+"Enter the title for featured blocks. Add more as per the entered page IDs"
+msgstr ""
+
+#: framework/meta-boxes.php:1193
+msgid "Title for first featured block"
+msgstr ""
+
+#: framework/meta-boxes.php:1195
+msgid "Enter the title for first featured block area"
+msgstr ""
+
+#: framework/meta-boxes.php:1200
+msgid "Title for second featured block"
+msgstr ""
+
+#: framework/meta-boxes.php:1202
+msgid "Enter the title for second featured block area"
+msgstr ""
+
+#: framework/meta-boxes.php:1207
+msgid "Title for third featured block"
+msgstr ""
+
+#: framework/meta-boxes.php:1209
+msgid "Enter the title for third featured block area"
+msgstr ""
+
+#: framework/meta-boxes.php:1218
+msgid "Upcoming Events Area"
+msgstr ""
+
+#: framework/meta-boxes.php:1227
+msgid "Switch for upcoming events"
+msgstr ""
+
+#: framework/meta-boxes.php:1229
+msgid "Select enable or disable to show/hide upcoming events."
+msgstr ""
+
+#: framework/meta-boxes.php:1251
+msgid "Custom More Upcoming Events Title"
+msgstr ""
+
+#: framework/meta-boxes.php:1253
+msgid "Enter more upcoming events title."
+msgstr ""
+
+#: framework/meta-boxes.php:1258
+msgid "Number of Events to show on home page"
+msgstr ""
+
+#: framework/meta-boxes.php:1260
+msgid "Enter the number of events to show on home page. Example: 3"
+msgstr ""
+
+#: framework/meta-boxes.php:1270
+msgid "Recent Posts Area"
+msgstr ""
+
+#: framework/meta-boxes.php:1279
+msgid "Switch for recent post."
+msgstr ""
+
+#: framework/meta-boxes.php:1281
+msgid "Select enable or disable to show/hide recent posts."
+msgstr ""
+
+#: framework/meta-boxes.php:1290 framework/meta-boxes.php:1633
+#: framework/meta-boxes.php:1661
+msgid "Post Category"
+msgstr ""
+
+#: framework/meta-boxes.php:1292 framework/meta-boxes.php:1635
+msgid "Choose post category"
+msgstr ""
+
+#: framework/meta-boxes.php:1304
+msgid "Custom Latest News Title"
+msgstr ""
+
+#: framework/meta-boxes.php:1306
+msgid "Enter custom latest news title."
+msgstr ""
+
+#: framework/meta-boxes.php:1311
+msgid "Number of Recent Posts to show on home page."
+msgstr ""
+
+#: framework/meta-boxes.php:1313
+msgid "Enter the number of recent posts to show on home page. Example: 3"
+msgstr ""
+
+#: framework/meta-boxes.php:1319
+msgid "Show read more button"
+msgstr ""
+
+#: framework/meta-boxes.php:1321
+msgid "Show read more button for each recent post?"
+msgstr ""
+
+#: framework/meta-boxes.php:1331
+msgid "Custom read more button text"
+msgstr ""
+
+#: framework/meta-boxes.php:1333
+msgid "Enter button text for read more button"
+msgstr ""
+
+#: framework/meta-boxes.php:1343
+msgid "Recent Galleries Area"
+msgstr ""
+
+#: framework/meta-boxes.php:1352
+msgid "Switch for gallery"
+msgstr ""
+
+#: framework/meta-boxes.php:1354
+msgid "Select enable or disable to show/hide galleries."
+msgstr ""
+
+#: framework/meta-boxes.php:1363 framework/meta-boxes.php:1572
+msgid "Gallery Categories"
+msgstr ""
+
+#: framework/meta-boxes.php:1365 framework/meta-boxes.php:1583
+msgid "Choose gallery category"
+msgstr ""
+
+#: framework/meta-boxes.php:1378
+msgid "Custom Gallery Title"
+msgstr ""
+
+#: framework/meta-boxes.php:1380
+msgid "Enter custom gallery title."
+msgstr ""
+
+#: framework/meta-boxes.php:1385
+msgid "Custom More Galleries Title"
+msgstr ""
+
+#: framework/meta-boxes.php:1387
+msgid "Enter custom more galleries title."
+msgstr ""
+
+#: framework/meta-boxes.php:1392
+msgid "Custom More Galleries URL"
+msgstr ""
+
+#: framework/meta-boxes.php:1394
+msgid "Enter custom more galleries URL."
+msgstr ""
+
+#: framework/meta-boxes.php:1399
+msgid "Number of Galleries to show on home page"
+msgstr ""
+
+#: framework/meta-boxes.php:1401
+msgid "Enter the number of gallery posts to show on home page. Example: 3"
+msgstr ""
+
+#: framework/meta-boxes.php:1407
+msgid "Upload Background Image"
+msgstr ""
+
+#: framework/meta-boxes.php:1409
+msgid "Upload background image for the latest gallery section of home page."
+msgstr ""
+
+#: framework/meta-boxes.php:1419 template-h-third.php:886
+msgid "Latest Sermon Albums"
+msgstr ""
+
+#: framework/meta-boxes.php:1428
+msgid "Switch for Sermon Albums"
+msgstr ""
+
+#: framework/meta-boxes.php:1430
+msgid "Select enable or disable to show/hide sermon albums posts area."
+msgstr ""
+
+#: framework/meta-boxes.php:1439
+msgid "Custom Latest Sermon Albums Title"
+msgstr ""
+
+#: framework/meta-boxes.php:1441
+msgid "Enter custom latest sermon albums title"
+msgstr ""
+
+#: framework/meta-boxes.php:1447
+msgid "Number of Sermon Albums"
+msgstr ""
+
+#: framework/meta-boxes.php:1449
+msgid "Enter number of sermon albums to show"
+msgstr ""
+
+#: framework/meta-boxes.php:1455
+msgid "All Sermon Albums URL"
+msgstr ""
+
+#: framework/meta-boxes.php:1457
+msgid "Enter sermon albums URL"
+msgstr ""
+
+#: framework/meta-boxes.php:1466 framework/meta-boxes.php:1504
+#: framework/meta-boxes.php:1535
+msgid "Gallery Metabox"
+msgstr ""
+
+#: framework/meta-boxes.php:1475 framework/meta-boxes.php:1513
+msgid "Number of gallery items"
+msgstr ""
+
+#: framework/meta-boxes.php:1477
+msgid "Enter the number of gallery items to show on a page. For example: 6"
+msgstr ""
+
+#: framework/meta-boxes.php:1482 framework/meta-boxes.php:1544
+msgid "Gallery Columns Layout"
+msgstr ""
+
+#: framework/meta-boxes.php:1484
+msgid ""
+"Enter the number of columns for layout to show on gallery page. Example: 3"
+msgstr ""
+
+#: framework/meta-boxes.php:1489 framework/meta-boxes.php:1520
+#: framework/meta-boxes.php:1557
+msgid "Show gallery items title"
+msgstr ""
+
+#: framework/meta-boxes.php:1491
+msgid "Select enable if you need to show gallery posts title."
+msgstr ""
+
+#: framework/meta-boxes.php:1515
+msgid "Enter the number of gallery items to show on a page. For example: 3"
+msgstr ""
+
+#: framework/meta-boxes.php:1522 framework/meta-boxes.php:1559
+msgid "Select enable if you need to show gallery items title."
+msgstr ""
+
+#: framework/meta-boxes.php:1546
+msgid ""
+"Enter the number of columns for Layout to show on gallery filter page. "
+"Example: 3"
+msgstr ""
+
+#: framework/meta-boxes.php:1549
+msgid "2 Columns"
+msgstr ""
+
+#: framework/meta-boxes.php:1550
+msgid "3 Columns"
+msgstr ""
+
+#: framework/meta-boxes.php:1551
+msgid "4 Columns"
+msgstr ""
+
+#: framework/meta-boxes.php:1552
+msgid "6 Columns"
+msgstr ""
+
+#: framework/meta-boxes.php:1581
+msgid "Gallery Category"
+msgstr ""
+
+#: framework/meta-boxes.php:1598
+msgid "Events Categories"
+msgstr ""
+
+#: framework/meta-boxes.php:1624
+msgid "Post Categories"
+msgstr ""
+
+#: framework/meta-boxes.php:1651
+msgid "Blog Post Categories"
+msgstr ""
+
+#: framework/meta-boxes.php:1657
+msgid ""
+"<p style=\"background-color:red; color:#fff; padding:5px 20px\">If you are "
+"setting this page as your posts page at Settings > Reading then use this "
+"metabox options for the post categories.</p>"
+msgstr ""
+
+#: framework/meta-boxes.php:1663
+msgid "Choose post category/categories"
+msgstr ""
+
+#: framework/meta-boxes.php:1678
+msgid "Staff to show"
+msgstr ""
+
+#: framework/meta-boxes.php:1687
+msgid "Number of Staff to show"
+msgstr ""
+
+#: framework/meta-boxes.php:1689
+msgid "Enter the number of staff posts to show on staff page. Example: 3"
+msgstr ""
+
+#: framework/meta-boxes.php:1694
+msgid "Select grid column"
+msgstr ""
+
+#: framework/meta-boxes.php:1696
+msgid "Select number of columns to show in a row."
+msgstr ""
+
+#: framework/meta-boxes.php:1699
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:82
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:91
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:87
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:88
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:91
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:101
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:98
+msgid "Three"
+msgstr ""
+
+#: framework/meta-boxes.php:1700
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:81
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:90
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:86
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:87
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:90
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:100
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:97
+msgid "Two"
+msgstr ""
+
+#: framework/meta-boxes.php:1701
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:83
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:92
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:88
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:89
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:92
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:102
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:99
+msgid "Four"
+msgstr ""
+
+#: framework/meta-boxes.php:1705
+msgid "Staff Category"
+msgstr ""
+
+#: framework/meta-boxes.php:1707
+msgid "Choose staff category"
+msgstr ""
+
+#: framework/meta-boxes.php:1717 framework/meta-boxes.php:1815
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:27
+msgid "Select Orderby"
+msgstr ""
+
+#: framework/meta-boxes.php:1719
+msgid "Select staff orderby."
+msgstr ""
+
+#: framework/meta-boxes.php:1722 framework/meta-boxes.php:1821
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:33
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:53
+msgid "ID"
+msgstr ""
+
+#: framework/meta-boxes.php:1723
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:27
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:27
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:27
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:27
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:27
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:27
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:27
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:27
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:27
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:54
+msgid "Title"
+msgstr ""
+
+#: framework/meta-boxes.php:1724
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:55
+#: framework/theme-functions.php:2073
+msgid "Date"
+msgstr ""
+
+#: framework/meta-boxes.php:1725
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:56
+msgid "Menu Order"
+msgstr ""
+
+#: framework/meta-boxes.php:1729 framework/meta-boxes.php:1829
+msgid "Select Order"
+msgstr ""
+
+#: framework/meta-boxes.php:1731
+msgid "Select staff order."
+msgstr ""
+
+#: framework/meta-boxes.php:1734 framework/meta-boxes.php:1834
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:45
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:65
+msgid "Ascending"
+msgstr ""
+
+#: framework/meta-boxes.php:1735 framework/meta-boxes.php:1835
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:46
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:66
+msgid "Descending"
+msgstr ""
+
+#: framework/meta-boxes.php:1739
+msgid "Length of Excerpt to show"
+msgstr ""
+
+#: framework/meta-boxes.php:1741
+msgid ""
+"Enter the number of words you would like to show from the staff posts "
+"content/excerpt. Enter 0 to completely hide the excerpt and read more button"
+msgstr ""
+
+#: framework/meta-boxes.php:1751
+msgid "Event Timeline View"
+msgstr ""
+
+#: framework/meta-boxes.php:1760
+msgid "Event type"
+msgstr ""
+
+#: framework/meta-boxes.php:1762
+msgid "Select events to show in timeline"
+msgstr ""
+
+#: framework/meta-boxes.php:1765
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:100
+msgid "Future"
+msgstr ""
+
+#: framework/meta-boxes.php:1766
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:101
+msgid "Past"
+msgstr ""
+
+#: framework/meta-boxes.php:1770
+msgid "Events to show per page"
+msgstr ""
+
+#: framework/meta-boxes.php:1772
+msgid "Enter the number of events that you would like to show per page."
+msgstr ""
+
+#: framework/meta-boxes.php:1781
+msgid "Blog Masonry Metabox"
+msgstr ""
+
+#: framework/meta-boxes.php:1790
+msgid "What should thumbnails do?"
+msgstr ""
+
+#: framework/meta-boxes.php:1792
+msgid ""
+"Select what you like for your blog thumbnails - Open in lightbox or redirect "
+"to single post page."
+msgstr ""
+
+#: framework/meta-boxes.php:1795
+msgid "Lightbox"
+msgstr ""
+
+#: framework/meta-boxes.php:1796
+msgid "Single Post"
+msgstr ""
+
+#: framework/meta-boxes.php:1805
+msgid "Show Sermon Categories/Albums"
+msgstr ""
+
+#: framework/meta-boxes.php:1817
+msgid "Select how you want to sort albums by. Default is by count"
+msgstr ""
+
+#: framework/meta-boxes.php:1820
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:32
+msgid "Count"
+msgstr ""
+
+#: framework/meta-boxes.php:1822
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:34
+#: framework/theme-functions.php:2066
+msgid "Name"
+msgstr ""
+
+#: framework/meta-boxes.php:1823
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:35
+msgid "Slug"
+msgstr ""
+
+#: framework/meta-boxes.php:1824
+msgid "Custom order"
+msgstr ""
+
+#: framework/meta-boxes.php:1831
+msgid "Select the order of list. Default is by ASC"
+msgstr ""
+
+#: framework/meta-boxes.php:1840
+msgid "Sermon Categories"
+msgstr ""
+
+#: framework/meta-boxes.php:1842
+msgid "Add categories to show them in given order."
+msgstr ""
+
+#: framework/page-builder/page-builder.php:10
+msgid "Native Theme Widgets"
+msgstr ""
+
+#: framework/page-builder/page-builder.php:25
+msgid "Home version 1"
+msgstr ""
+
+#: framework/page-builder/page-builder.php:275
+msgid "Home version 4"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:15
+msgid "Alert Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:17
+msgid "A widget to add Alert Boxes to your pages."
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:27
+msgid "Alert Box Content"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:28
+msgid "HTML tags are allowed in this."
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:34
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:35
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:41
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:42
+msgid "Choose Color Style"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:37
+msgid "Standard"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:38
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:45
+msgid "Warning"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:39
+msgid "Error"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:40
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:46
+msgid "Info"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:41
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:48
+msgid "Success"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:46
+msgid "Custom background color"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:51
+msgid "Custom border color"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:56
+msgid "Custom text color"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:61
+msgid "Show close button"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:67
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:68
+msgid "Choose animation"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:70
+msgid "Flash"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:71
+msgid "Shake"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:72
+msgid "Bounce"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:73
+msgid "Tada"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:74
+msgid "Swing"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:75
+msgid "Wobble"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:76
+msgid "Wiggle"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:77
+msgid "Pulse"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:78
+msgid "FadeIn"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:79
+msgid "FadeInUp"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:80
+msgid "FadeInLeft"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:81
+msgid "FadeInRight"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:82
+msgid "FadeInUpBig"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:83
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:84
+msgid "FadeInDownBig"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:85
+msgid "FadeInRightBig"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:86
+msgid "BounceIn"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:87
+msgid "BounceInUp"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:88
+msgid "BounceInDown"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:89
+msgid "BounceInLeft"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:90
+msgid "BounceInRight"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:91
+msgid "RotateIn"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:92
+msgid "RotateInUpLeft"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:93
+msgid "RotateInDownLeft"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:94
+msgid "RotateInUpRight"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:95
+msgid "RotateInDownRight"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:15
+msgid "Blog Timeline Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:17
+msgid "A widget to show blog item timeline view."
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:32
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:32
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:32
+msgid "All posts button text"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:33
+msgid "All posts"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:34
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:40
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:34
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:40
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:34
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:40
+#: framework/page-builder/widgets/event-grid-minimal-style-widget/event-grid-minimal-style-widget.php:38
+#: framework/page-builder/widgets/event-listing-with-filter-widget/event-listing-with-filter-widget.php:35
+#: framework/page-builder/widgets/event-listing-with-filter-widget/event-listing-with-filter-widget.php:41
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:34
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:40
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:34
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:40
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:34
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:40
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:34
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:40
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:34
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:40
+#: framework/page-builder/widgets/upcoming-events-listing-widget/upcoming-events-listing-widget.php:39
+#: framework/page-builder/widgets/upcoming-events-listing-widget/upcoming-events-listing-widget.php:45
+msgid "This button will be displayed only if the widget has title."
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:39
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:39
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:39
+msgid "All posts button URL"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:45
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:45
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:45
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:45
+msgid "Categories (Enter comma separated sermon category slugs)"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:49
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:49
+msgid "Number of Gallery Items to show"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:56
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:56
+msgid "Enabled/Disable Pagination"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:57
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:57
+msgid "Select Enabled to active Pagination."
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:68
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:68
+msgid "Show gallery item titles"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:73
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:73
+msgid "Show categories filter"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:78
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:88
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:83
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:84
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:88
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:98
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:95
+msgid "Choose Grid Column"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/blog-timeline-widget.php:80
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:85
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:86
+msgid "One"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/tpl/template-blog-timeline.php:58
+#: index.php:56 search.php:66 tag.php:42 taxonomy-sermons-category.php:91
+#: taxonomy-sermons-speakers.php:92 taxonomy-sermons-tag.php:92
+#: template-blog-full-width.php:89 template-blog-masonry.php:91
+#: template-blog-medium-thumbnails.php:70 template-blog-timeline.php:85
+#: template-sermons-albums.php:117
+msgid "No posts to display"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/tpl/template-blog-timeline.php:59
+#: index.php:57 search.php:67 tag.php:43 taxonomy-sermons-category.php:92
+#: taxonomy-sermons-speakers.php:93 taxonomy-sermons-tag.php:93
+#: template-blog-full-width.php:90 template-blog-masonry.php:92
+#: template-blog-medium-thumbnails.php:71 template-blog-timeline.php:86
+#: template-sermons-albums.php:118
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/tpl/template-blog-timeline.php:61
+#: index.php:59 search.php:69 tag.php:45 taxonomy-sermons-category.php:94
+#: taxonomy-sermons-speakers.php:95 taxonomy-sermons-tag.php:95
+#: template-blog-full-width.php:92 template-blog-masonry.php:94
+#: template-blog-medium-thumbnails.php:73 template-blog-timeline.php:88
+#: template-sermons-albums.php:120
+msgid "Nothing Found"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/tpl/template-blog-timeline.php:62
+#: index.php:60 search.php:70 tag.php:46 taxonomy-sermons-category.php:95
+#: taxonomy-sermons-speakers.php:96 taxonomy-sermons-tag.php:96
+#: template-blog-full-width.php:93 template-blog-masonry.php:95
+#: template-blog-medium-thumbnails.php:74 template-blog-timeline.php:89
+#: template-sermons-albums.php:121
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post.."
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/tpl/template-blog-timeline.php:73
+msgid "&larr;Older"
+msgstr ""
+
+#: framework/page-builder/widgets/blog-timeline-widget/tpl/template-blog-timeline.php:74
+#: template-blog-masonry.php:107 template-blog-timeline.php:101
+#: template-gallery-masonry.php:138
+msgid " Newer &rarr;"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:15
+msgid "Carousel Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:17
+msgid "A widget to show a carousel or list of images/logos."
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:32
+msgid "Button Text"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:39
+msgid "Button URL"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:44
+msgid "Images"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:45
+msgid "Image"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:56
+msgid "Upload image"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:61
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:34
+msgid "Image size"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:63
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:36
+msgid "Full"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:64
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:37
+msgid "Large"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:65
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:38
+msgid "Medium"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:66
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:39
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:72
+msgid "Title text to show under the image"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:77
+#: framework/theme-functions.php:620
+msgid "Image URL"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:81
+msgid "Open URL in a new window"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:88
+msgid "Number of images/logos to show in a row"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:97
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:57
+msgid "Choose View"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:98
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:58
+msgid "Choose Display Style"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:100
+msgid "List"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:101
+msgid "Carousel"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:107
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:108
+msgid "Autoplay Carousel"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:117
+msgid "Carousel Navigation"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:118
+msgid "Show Carousel Navigation"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:127
+msgid "Carousel Pagination"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:128
+msgid "Show Carousel Pagination"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:15
+msgid "Cause Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:17
+msgid "A widget to show cause list/grid view."
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:32
+msgid "All causes button text"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:33
+#: header.php:468
+msgid "All causes"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:39
+msgid "All causes button URL"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:45
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:45
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:45
+msgid "Categories (Enter comma separated post category slugs)"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:49
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:49
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:49
+msgid "Number of Posts to show"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:58
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:58
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:58
+msgid "Show post meta like post date, author, categories, comments?"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:63
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:63
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:63
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:65
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:73
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:85
+msgid ""
+"Length of excerpt(Enter the number of words to show)? Leave blank to hide - "
+"Default is: 50"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:68
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:68
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:68
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:78
+msgid ""
+"Continue reading button text, Leave blank to hide button - Default is "
+"Continue Reading"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:74
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:33
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:74
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:84
+msgid "Choose listing layout."
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:79
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:38
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:79
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:75
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:89
+msgid "Layout Type"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:81
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:81
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:77
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:91
+msgid "List View"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/cause-widget.php:82
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:82
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:78
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:92
+msgid "Grid View"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/tpl/grid-view.php:60
+#: framework/page-builder/widgets/cause-widget/tpl/list-view.php:65
+#: plugin_template/taxonomy-causes-category.php:61
+#: plugin_template/template-causes-grid.php:63
+#: plugin_template/template-causes-list.php:77
+msgid "% Donated of "
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/tpl/grid-view.php:84
+#: framework/page-builder/widgets/cause-widget/tpl/list-view.php:33
+#: plugin_template/single-causes.php:102
+#: plugin_template/taxonomy-causes-category.php:29
+#: plugin_template/template-causes-grid.php:87
+#: plugin_template/template-causes-list.php:45
+msgid "Donate Now"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/tpl/grid-view.php:103
+#: framework/page-builder/widgets/cause-widget/tpl/list-view.php:114
+#: plugin_template/single-causes.php:117
+#: plugin_template/taxonomy-causes-category.php:107
+#: plugin_template/template-causes-grid.php:108
+#: plugin_template/template-causes-list.php:126
+msgid "Donate to: "
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/tpl/grid-view.php:118
+#: framework/page-builder/widgets/cause-widget/tpl/list-view.php:129
+#: plugin_template/taxonomy-causes-category.php:138
+#: plugin_template/template-causes-grid.php:130
+#: plugin_template/template-causes-list.php:157
+msgid "Please activate \"Payment Imithemes\" plugin first. "
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/tpl/list-view.php:43
+#: framework/page-builder/widgets/posts-full-width-list-widget/tpl/list-view.php:33
+#: framework/page-builder/widgets/posts-list-widget/tpl/grid-view.php:32
+#: framework/page-builder/widgets/posts-list-widget/tpl/list-view.php:38
+#: index.php:42 plugin_template/taxonomy-causes-category.php:39 search.php:25
+#: single.php:10 tag.php:29 template-blog-full-width.php:36
+#: template-blog-medium-thumbnails.php:58
+msgid "No comments yet"
+msgstr ""
+
+#: framework/page-builder/widgets/cause-widget/tpl/list-view.php:99
+#: plugin_template/taxonomy-causes-category.php:93
+#: plugin_template/template-causes-grid.php:96
+#: plugin_template/template-causes-list.php:111
+msgid "There is no any causes yet. "
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:15
+msgid "Counter Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:17
+msgid "A widget to add Animated Numbers Counter to your pages."
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:27
+msgid "Icon"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:31
+msgid "Icon color"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:36
+msgid "Icon size"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:42
+msgid "Icon image"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:43
+msgid "Use your own icon image."
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:47
+msgid "Number (To count to)"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:51
+msgid "Number Color"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:56
+msgid "Text to show below number"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:60
+msgid "Text Color"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-minimal-style-widget/event-grid-minimal-style-widget.php:15
+msgid "Event Grid Minimal Style Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-minimal-style-widget/event-grid-minimal-style-widget.php:17
+msgid "A widget to show upcoming events in a grid style."
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-minimal-style-widget/event-grid-minimal-style-widget.php:27
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:27
+#: framework/page-builder/widgets/event-listing-with-filter-widget/event-listing-with-filter-widget.php:45
+#: framework/page-builder/widgets/upcoming-events-listing-widget/upcoming-events-listing-widget.php:27
+msgid "Event Categories (Enter comma separated events category slugs)"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-minimal-style-widget/event-grid-minimal-style-widget.php:31
+#: framework/page-builder/widgets/event-listing-with-filter-widget/event-listing-with-filter-widget.php:27
+#: framework/page-builder/widgets/upcoming-events-listing-widget/upcoming-events-listing-widget.php:31
+msgid "Widget Title"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-minimal-style-widget/event-grid-minimal-style-widget.php:37
+#: framework/page-builder/widgets/event-listing-with-filter-widget/event-listing-with-filter-widget.php:40
+#: framework/page-builder/widgets/upcoming-events-listing-widget/upcoming-events-listing-widget.php:44
+msgid "All events button URL"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-minimal-style-widget/event-grid-minimal-style-widget.php:43
+#: framework/page-builder/widgets/event-listing-with-filter-widget/event-listing-with-filter-widget.php:33
+#: framework/page-builder/widgets/upcoming-events-listing-widget/upcoming-events-listing-widget.php:37
+msgid "All events button text"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-minimal-style-widget/event-grid-minimal-style-widget.php:44
+#: framework/page-builder/widgets/event-listing-with-filter-widget/event-listing-with-filter-widget.php:34
+#: framework/page-builder/widgets/upcoming-events-listing-widget/upcoming-events-listing-widget.php:38
+#: template-h-third.php:396 template-h-third.php:608 template-home-pb.php:245
+#: template-home.php:383
+msgid "All Events"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-minimal-style-widget/event-grid-minimal-style-widget.php:48
+#: framework/page-builder/widgets/upcoming-events-listing-widget/upcoming-events-listing-widget.php:49
+msgid "Number of Events to show"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-minimal-style-widget/tpl/event-grid-minimal-style-widget-template.php:114
+#: framework/page-builder/widgets/upcoming-events-listing-widget/tpl/events-listing-widget-template.php:75
+#: template-h-third.php:221 template-h-third.php:593 template-home.php:226
+msgid "No Upcoming Events Found"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:15
+msgid "imithemes - Event Grid and Timeline Style Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:17
+msgid "A widget to show events in grid and timeline style."
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:40
+msgid "Grid Style"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:41
+msgid "Timeline Style"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:50
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:64
+msgid "Number of events to show"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:78
+msgid "Show pagination"
+msgstr ""
+
+#: framework/page-builder/widgets/event-grid-timeline-widget/event-grid-timeline-widget.php:98
+msgid "Events Type"
+msgstr ""
+
+#: framework/page-builder/widgets/event-listing-with-filter-widget/event-listing-with-filter-widget.php:15
+msgid "Monthly Events Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/event-listing-with-filter-widget/event-listing-with-filter-widget.php:17
+msgid "A widget to show list of events with month switcher."
+msgstr ""
+
+#: framework/page-builder/widgets/event-listing-with-filter-widget/tpl/template.php:7
+#: framework/page-builder/widgets/upcoming-events-listing-widget/tpl/events-listing-widget-template.php:7
+#: template-h-third.php:611
+msgid "Upcoming Events"
+msgstr ""
+
+#: framework/page-builder/widgets/event-listing-with-filter-widget/tpl/template.php:15
+#: framework/theme-functions.php:1556 header.php:520
+#: taxonomy-event-category.php:14 template-events.php:28
+msgid "All events"
+msgstr ""
+
+#: framework/page-builder/widgets/event-listing-with-filter-widget/tpl/template.php:123
+#: framework/page-builder/widgets/upcoming-events-listing-widget/tpl/events-listing-widget-template.php:65
+#: framework/theme-functions.php:1651 search.php:57
+#: taxonomy-event-category.php:46 template-events.php:136
+#: template-h-third.php:208 template-home.php:213
+msgid "Details"
+msgstr ""
+
+#: framework/page-builder/widgets/event-listing-with-filter-widget/tpl/template.php:131
+#: framework/theme-functions.php:1658 template-events.php:144
+msgid "Sorry, there are no events for this month."
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:15
+msgid "Featured Block Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:17
+msgid "A widget to show featured block to redirect users to some page."
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:27
+msgid "Image file"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:45
+msgid "Title text"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:50
+msgid "Alt text"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:55
+msgid "Button text"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:60
+msgid "Destination URL"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:65
+msgid "Open in new window"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:71
+msgid "Bound"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:72
+msgid "Make sure the image doesn't extend beyond its container."
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:77
+msgid "Full Width"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:78
+msgid "Resize image to fit its container."
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:15
+msgid "Gallery Grid Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:17
+msgid "A widget to show Gallery items grid view."
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:32
+msgid "All galleries button text"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:33
+msgid "All Galleries"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:39
+msgid "All galleries button URL"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/tpl/grid-view.php:33
+#: header.php:393
+msgid "Show All"
+msgstr ""
+
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:15
+msgid "Posts Full Width List Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:17
+msgid "A widget to show posts in full width."
+msgstr ""
+
+#: framework/page-builder/widgets/posts-full-width-list-widget/posts-full-width-list-widget.php:33
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:33
+msgid "All Posts"
+msgstr ""
+
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:15
+msgid "Posts List Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:17
+msgid "A widget to show posts list/grid view."
+msgstr ""
+
+#: framework/page-builder/widgets/posts-list-widget/tpl/list-view.php:37
+#: index.php:39 single.php:23 template-blog-medium-thumbnails.php:57
+#: template-events-classic.php:163
+msgid " Posted By: "
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:15
+msgid "Progressbar Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:17
+msgid "A widget to add Progress bar to your pages."
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:28
+msgid "Title to show above the progress bar."
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:33
+msgid "Progress Percentile"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:34
+msgid "Enter the progress percentile without %. For ex: 90"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:44
+msgid "Primary"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:47
+msgid "Danger"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:53
+msgid "Custom progress bar color"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:58
+msgid "Use stripped background animation"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:63
+msgid "Show progress percentile tooltip"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:69
+msgid "Delay animation"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:70
+msgid ""
+"Enter the delay animation time. 100 means 1 sec. Leave blank for no animation"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:15
+msgid "Sermons Albums Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:17
+msgid "A widget to show sermon categories/albums."
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:28
+msgid "Select how you want to show albums by. Default is by count"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:30
+msgid "Order By"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:40
+msgid "Select Sortby"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:41
+msgid "Select how you want to sort albums. Default is by ASC"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:43
+msgid "Sort By"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:51
+msgid "Number of Albumns to show"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:60
+msgid "Show media(audio/video) count?"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/sermons-albums-widget.php:70
+msgid "Play button text, Leave blank to hide button - Default is Play"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/tpl/grid-view.php:51
+#: framework/page-builder/widgets/sermons-albums-widget/tpl/list-view.php:51
+#: template-h-third.php:930 template-sermons-albums.php:90
+msgid " videos"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-albums-widget/tpl/grid-view.php:55
+#: framework/page-builder/widgets/sermons-albums-widget/tpl/list-view.php:55
+#: template-h-third.php:934 template-sermons-albums.php:94
+msgid " audios"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:15
+msgid "Sermons List Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:17
+msgid "A widget to show sermons list/grid view."
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:32
+msgid "All sermons button text"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:33
+#: template-h-third.php:447 template-home-pb.php:294 template-home.php:432
+msgid "All Sermons"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:39
+msgid "All sermons button URL"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:49
+msgid "Number of Sermons to show"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:56
+msgid "Enable/Disable Pagination"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:57
+msgid "Select Enabled to show pagination."
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/sermons-list-widget.php:68
+msgid "Show post meta like post date, pastor name?"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/tpl/grid-view.php:37
+#: framework/page-builder/widgets/sermons-list-widget/tpl/list-view.php:34
+#: single.php:18 taxonomy-sermons-category.php:41
+#: taxonomy-sermons-speakers.php:42 taxonomy-sermons-tag.php:42
+#: template-sermons.php:57
+msgid "Posted on "
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/tpl/grid-view.php:44
+#: framework/page-builder/widgets/sermons-list-widget/tpl/list-view.php:42
+#: single-sermons.php:46 taxonomy-sermons-category.php:47
+#: taxonomy-sermons-speakers.php:48 taxonomy-sermons-tag.php:48
+#: template-sermons.php:63
+msgid "Video"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/tpl/grid-view.php:51
+#: framework/page-builder/widgets/sermons-list-widget/tpl/list-view.php:49
+#: taxonomy-sermons-category.php:53 taxonomy-sermons-speakers.php:54
+#: taxonomy-sermons-tag.php:54 template-sermons.php:70
+msgid "Read online"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/tpl/grid-view.php:55
+#: framework/page-builder/widgets/sermons-list-widget/tpl/list-view.php:53
+#: single-sermons.php:57 taxonomy-sermons-category.php:56
+#: taxonomy-sermons-speakers.php:57 taxonomy-sermons-tag.php:57
+#: template-sermons.php:74
+msgid "Download PDF"
+msgstr ""
+
+#: framework/page-builder/widgets/sermons-list-widget/tpl/list-view.php:35
+msgid "Pastor"
+msgstr ""
+
+#: framework/page-builder/widgets/spacer-widget/spacer-widget.php:15
+msgid "Spacer Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/spacer-widget/spacer-widget.php:17
+msgid "A widget to add blank spaces in between widgets."
+msgstr ""
+
+#: framework/page-builder/widgets/spacer-widget/spacer-widget.php:28
+msgid "Spacer height in pixels. Example: 30px"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:15
+msgid "Staff Grid Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:17
+msgid "A widget to show Staff members in grid view."
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:32
+msgid "All staff button text"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:33
+msgid "All Staff"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:39
+msgid "All staff button URL"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:49
+msgid "Order staff posts by"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:51
+msgid "Orderby"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:61
+msgid "Order staff posts"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:63
+msgid "Order"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:71
+msgid "Number of Staff Members to show"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:80
+msgid "Show social profile icons, member role/position"
+msgstr ""
+
+#: framework/page-builder/widgets/staff-grid-widget/staff-grid-widget.php:90
+msgid "Read More, Leave blank to hide button - Default is Read More"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:15
+msgid "Tabs Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:17
+msgid "A widget to add tabs to your pages."
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:27
+msgid "Tabs ID"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:28
+msgid "Numeric only. Keep it unique if adding multiple tabs in a single page."
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:33
+msgid "Tabs"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:34
+msgid "Tab"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:44
+msgid "Tab title"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:49
+msgid "Tab Content"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:60
+msgid "Horizontal"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:61
+msgid "Vertical"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:15
+msgid "Toggle Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:17
+msgid "A widget to add Toggle/Accordion to your pages."
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:27
+msgid "Toggle Name"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:28
+msgid ""
+"Keep it unique if adding multiple tabs in a single page.(No spaces in name)"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:33
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:60
+msgid "Toggles"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:34
+msgid "Toggle"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:44
+msgid "Toggle title"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:49
+msgid "Toggle Content"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:57
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:58
+msgid "Choose Type"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:61
+msgid "Accordions"
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-events-listing-widget/tpl/events-listing-widget-template.php:62
+msgid "All day"
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-events-listing-widget/upcoming-events-listing-widget.php:15
+msgid "Upcoming Events Listing Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-events-listing-widget/upcoming-events-listing-widget.php:17
+msgid "A widget to show list of upcoming events in a compact way."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:393
+#: framework/tgm/class-tgm-plugin-activation.php:914
+#: framework/tgm/class-tgm-plugin-activation.php:2628
+#: framework/tgm/class-tgm-plugin-activation.php:3678
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:394
+#: framework/tgm/class-tgm-plugin-activation.php:3257
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:395
+#: framework/tgm/class-tgm-plugin-activation.php:3050
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1021
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1021
+#: framework/tgm/class-tgm-plugin-activation.php:1024
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1024
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1208
+#: framework/tgm/class-tgm-plugin-activation.php:3046
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2069
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2360
+msgid "Required"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2363
+msgid "Recommended"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2379
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2382
+msgid "External Source"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2385
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2402
+msgid "Not Installed"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2406
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2408
+msgid "Active"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2414
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2417
+msgid "Requires Update"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2420
+msgid "Update recommended"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2429
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2475
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2479
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2577
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2585
+msgid "Installed version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2593
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2605
+msgid "Available version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2628
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2644
+msgid "Type"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2699
+#: framework/tgm/class-tgm-plugin-activation.php:2712
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2704
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2706
+#, php-format
+msgid "Deactivate %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2782
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2815
+msgid "Install"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2824
+msgid "Activate"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2855
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2857
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2898
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2900
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3006
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3032
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3256
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3601
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3605
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3607
+#: framework/tgm/class-tgm-plugin-activation.php:3615
+msgid "Show Details"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3607
+#: framework/tgm/class-tgm-plugin-activation.php:3615
+msgid "Hide Details"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3608
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3613
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3616
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:10
+msgid "A Core Plugin"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:33
+msgid "Payment imithemes"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:44
+msgid "iPray"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:54
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:60
+msgid "Pojo Sidebars"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:67
+msgid "Loco Translate"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:73
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:79
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:85
+msgid "Give - WordPress Donation Plugin"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:91
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:97
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:103
+msgid "Black Studio TinyMCE Widget"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:109
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:115
+msgid "Best Contact Forms"
+msgstr ""
+
+#: framework/theme-functions.php:93
+msgid "We are currently in maintenance mode, please check back shortly."
+msgstr ""
+
+#: framework/theme-functions.php:93
+msgid "Maintenance Mode"
+msgstr ""
+
+#: framework/theme-functions.php:310
+msgid "Home Page Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:320
+msgid "Contact Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:330
+msgid "Inner Page Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:340
+msgid "Sermons Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:350
+msgid "Event Page Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:360
+msgid "Single Event Page Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:370
+msgid "Post Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:380
+msgid "Footer Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:473
+msgid "Select Sidebar from list"
+msgstr ""
+
+#: framework/theme-functions.php:480
+msgid "Select Sidebar Postion"
+msgstr ""
+
+#: framework/theme-functions.php:694 framework/theme-functions.php:1449
+#: framework/theme-functions.php:2072
+msgid "Recurring"
+msgstr ""
+
+#: framework/theme-functions.php:1188 template-h-third.php:384
+#: template-home-pb.php:232 template-home.php:370
+msgid "days"
+msgstr ""
+
+#: framework/theme-functions.php:1190 template-h-third.php:385
+#: template-home-pb.php:233 template-home.php:371
+msgid "hrs"
+msgstr ""
+
+#: framework/theme-functions.php:1192 template-h-third.php:386
+#: template-home-pb.php:234 template-home.php:372
+msgid "mins"
+msgstr ""
+
+#: framework/theme-functions.php:1194 template-h-third.php:387
+#: template-home-pb.php:235 template-home.php:373
+msgid "secs"
+msgstr ""
+
+#: framework/theme-functions.php:1259
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: framework/theme-functions.php:1281
+msgid "Wrong username or password."
+msgstr ""
+
+#: framework/theme-functions.php:1283
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: framework/theme-functions.php:1449
+msgid "for"
+msgstr ""
+
+#: framework/theme-functions.php:1449
+msgid "Times"
+msgstr ""
+
+#: framework/theme-functions.php:1919 framework/theme-functions.php:1928
+#: framework/theme-functions.php:1944 template-h-third.php:103
+#: template-h-third.php:180 template-home-pb.php:97 template-home.php:103
+#: template-home.php:185
+msgid "All Day"
+msgstr ""
+
+#: framework/theme-functions.php:1986 single-event.php:136 single-event.php:165
+msgid "to"
+msgstr ""
+
+#: framework/theme-functions.php:2067
+msgid "Owner"
+msgstr ""
+
+#: framework/theme-functions.php:2068 single-staff.php:13
+msgid "Categories"
+msgstr ""
+
+#: framework/theme-functions.php:2112
+msgid "Every 2nd Day"
+msgstr ""
+
+#: framework/theme-functions.php:2114
+msgid "Every 3rd Day"
+msgstr ""
+
+#: framework/theme-functions.php:2116
+msgid "Every 4th Day"
+msgstr ""
+
+#: framework/theme-functions.php:2118
+msgid "Every 5th Day"
+msgstr ""
+
+#: framework/theme-functions.php:2120
+msgid "Every 6th Day"
+msgstr ""
+
+#: framework/theme-functions.php:2122
+msgid "Every week"
+msgstr ""
+
+#: framework/theme-functions.php:2349
+msgid "Select Post Category"
+msgstr ""
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:48
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:174
+msgid "Reply"
+msgstr ""
+
+#: functions.php:175
+msgid " says"
+msgstr ""
+
+#: functions.php:180
+msgid " at "
+msgstr ""
+
+#: functions.php:211
+msgid "read more"
+msgstr ""
+
+#: functions.php:245
+msgid "Google Plus"
+msgstr ""
+
+#: header.php:161
+msgid "Type your keywords..."
+msgstr ""
+
+#: header.php:314
+#, php-format
+msgid "Search Results for :  %s"
+msgstr ""
+
+#: header.php:326 header.php:406
+msgid "All Posts For - "
+msgstr ""
+
+#: header.php:339
+msgid "All Posts For "
+msgstr ""
+
+#: header.php:380
+msgid "All"
+msgstr ""
+
+#: header.php:410 header.php:414
+msgid "Blog"
+msgstr ""
+
+#: header.php:429
+msgid "All Sermons For "
+msgstr ""
+
+#: header.php:432
+msgid "Sermons"
+msgstr ""
+
+#: header.php:443
+msgid "All sermons"
+msgstr ""
+
+#: header.php:454
+msgid "All Causes For - "
+msgstr ""
+
+#: header.php:479
+msgid "All Staff For - "
+msgstr ""
+
+#: header.php:482
+msgid "Team"
+msgstr ""
+
+#: header.php:493
+msgid "All staff"
+msgstr ""
+
+#: header.php:504
+msgid "All Events For - "
+msgstr ""
+
+#: header.php:508
+msgid "Events"
+msgstr ""
+
+#: header.php:529
+msgid "All Products For - "
+msgstr ""
+
+#: index.php:47 search.php:28 tag.php:34 template-blog-full-width.php:80
+#: template-blog-medium-thumbnails.php:61 template-event-category.php:151
+#: template-h-third.php:697
+msgid "Continue reading"
+msgstr ""
+
+#: plugin_template/single-causes.php:36
+msgid "Thanks for your contribution"
+msgstr ""
+
+#: plugin_template/single-causes.php:75
+msgid "Cause Progress"
+msgstr ""
+
+#: plugin_template/single-causes.php:80
+msgid "Amount Needed"
+msgstr ""
+
+#: plugin_template/single-causes.php:84
+msgid "Collected yet"
+msgstr ""
+
+#: plugin_template/single-causes.php:87
+msgid "Percentile"
+msgstr ""
+
+#: plugin_template/single-causes.php:99
+msgid "Days left to achieve target"
+msgstr ""
+
+#: plugin_template/single-causes.php:100
+msgid "This cause has been completed."
+msgstr ""
+
+#: plugin_template/taxonomy-causes-category.php:39 search.php:25 tag.php:29
+msgid "Comments are off for this post"
+msgstr ""
+
+#: single-event.php:44
+msgid "Thanks for registering this event."
+msgstr ""
+
+#: single-event.php:94 single-event.php:102
+msgid " to "
+msgstr ""
+
+#: single-event.php:182 single-event.php:190
+msgid "Staff members"
+msgstr ""
+
+#: single-event.php:182
+msgid "Registration"
+msgstr ""
+
+#: single-event.php:199
+msgid "Print"
+msgstr ""
+
+#: single-event.php:200
+msgid "Contact us"
+msgstr ""
+
+#: single-event.php:203
+msgid "Event Address"
+msgstr ""
+
+#: single-event.php:211 single-event.php:215 single-event.php:217
+#: single-event.php:331
+msgid "Register"
+msgstr ""
+
+#: single-event.php:240
+msgid "Event details"
+msgstr ""
+
+#: single-event.php:291
+msgid "Save Event to Calendar"
+msgstr ""
+
+#: single-event.php:295
+msgid "Save to iCalendar"
+msgstr ""
+
+#: single-event.php:296
+msgid "Save to Google Calendar"
+msgstr ""
+
+#: single-event.php:297
+msgid "Save to Outlook"
+msgstr ""
+
+#: single-event.php:298
+msgid "Save to Outlook Online"
+msgstr ""
+
+#: single-event.php:299
+msgid "Save to Yahoo! Calendar"
+msgstr ""
+
+#: single-event.php:320
+msgid "Register for Event: "
+msgstr ""
+
+#: single-event.php:330
+msgid "Login"
+msgstr ""
+
+#: single-event.php:351
+msgid "Remember Me!"
+msgstr ""
+
+#: single-event.php:353
+msgid "Login Now"
+msgstr ""
+
+#: single-event.php:366
+msgid "Username"
+msgstr ""
+
+#: single-event.php:376
+msgid "Password"
+msgstr ""
+
+#: single-event.php:381
+msgid "Repeat Password"
+msgstr ""
+
+#: single-event.php:386
+msgid "Register Now"
+msgstr ""
+
+#: single-sermons.php:53
+msgid "Download Audio"
+msgstr ""
+
+#: single-staff.php:34
+msgid "Position"
+msgstr ""
+
+#: single.php:26
+msgid "Categories: "
+msgstr ""
+
+#: single.php:38
+msgid "Pages:"
+msgstr ""
+
+#: taxonomy-sermons-category.php:42 taxonomy-sermons-speakers.php:43
+#: taxonomy-sermons-tag.php:43 template-sermons.php:58
+msgid "Pastor: "
+msgstr ""
+
+#: taxonomy-sermons-category.php:80 taxonomy-sermons-speakers.php:81
+#: taxonomy-sermons-tag.php:81 template-sermons.php:95
+msgid "Continue reading "
+msgstr ""
+
+#: template-blog-masonry.php:106 template-blog-timeline.php:100
+#: template-gallery-masonry.php:137
+msgid "&larr; Older"
+msgstr ""
+
+#: template-contact.php:46
+msgid "Name*"
+msgstr ""
+
+#: template-contact.php:49
+msgid "Email*"
+msgstr ""
+
+#: template-contact.php:52
+msgid "Phone"
+msgstr ""
+
+#: template-contact.php:60
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:64
+msgid "Submit now!"
+msgstr ""
+
+#: template-event-category.php:163
+msgid "There are no future events to show."
+msgstr ""
+
+#: template-h-second.php:39
+msgid "Search Posts..."
+msgstr ""
+
+#: template-h-second.php:70
+msgid "More"
+msgstr ""
+
+#: template-h-second.php:100 template-h-third.php:693 template-home.php:566
+msgid "on "
+msgstr ""
+
+#: template-h-second.php:107
+msgid "Read More"
+msgstr ""
+
+#: template-h-second.php:170 template-h-third.php:755 template-home.php:632
+msgid "Updates from our gallery"
+msgstr ""
+
+#: template-h-second.php:172 template-h-third.php:758 template-home.php:634
+msgid "More Galleries"
+msgstr ""
+
+#: template-h-third.php:273 template-home-pb.php:162 template-home.php:273
+msgid "Going on Events"
+msgstr ""
+
+#: template-h-third.php:338 template-home-pb.php:227 template-home.php:338
+msgid "Next"
+msgstr ""
+
+#: template-h-third.php:339 template-home-pb.php:227 template-home.php:338
+msgid "Upcoming Event"
+msgstr ""
+
+#: template-h-third.php:664 template-home.php:536
+msgid "Latest News"
+msgstr ""
+
+#: template-h-third.php:883
+msgid "All Albums"
+msgstr ""
+
+#: template-h-third.php:941 template-sermons-albums.php:104
+msgid "Play "
+msgstr ""
+
+#: template-home.php:489
+msgid "More Coming Events"
+msgstr ""
+
+#: template-home.php:571
+msgid "Read more"
+msgstr ""
+
+#: welcome.php:15
+msgid "Native Church Urgent Message!"
+msgstr ""
+
+#: welcome.php:15
+msgid ""
+"Please install and activate the NativeChurch core plugin now, its mandatory "
+"to keep this plugin always activated to use all features of this theme."
+msgstr ""
+
+#: welcome.php:15
+msgid "Install plugin here"
+msgstr ""
+
+#: welcome.php:35
+msgid "Welcome to NativeChurch"
+msgstr ""
+
+#: welcome.php:36
+msgid "NativeChurch"
+msgstr ""
+
+#: welcome.php:36
+msgid ""
+" is now installed and ready to use! Please install and activate the core "
+"plugin from below to get all the features of this theme."
+msgstr ""
+
+#: welcome.php:51
+msgid "REQUIRED"
+msgstr ""
+
+#: welcome.php:57 welcome.php:82
+msgid "Add core features of theme"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Native Church"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://demo.imithemes.com/native-church-wp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<strong>Responsive WordPress Theme for Churches, Designed & Developed by "
+"imithemes</strong> - <a href=\"http://www.imithemes.com\">www.imithemes.com</"
+"a>. Follow us for update notifications:<br/> <a href='http://twitter.com/"
+"imithemes'>Twitter</a><br/> | <a href='http://www.facebook.com/"
+"imithemes'>Facebook</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "imithemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "www.imithemes.com"
+msgstr ""
